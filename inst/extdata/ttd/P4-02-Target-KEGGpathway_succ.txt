@@ -1,0 +1,2236 @@
+
+TTD - Therapeutic Targets Database Full Data Download File
+Version 6.1.01 (2017.10.04)
+Provided by BIDD   BioInformatic and Drug Design Group
+                   Department of Pharmacy
+                   National Unviersity of Singapore
+                   http://bidd.nus.edu.sg/group/bidd.htm
+Any question about data provided here, please contact with:
+Prof. Chen (csccyz@nus.edu.sg) and Prof. Zhu (zhufeng@cqu.edu.cn, http://idrb.cqu.edu.cn/Peoples-PI.php)
+
+--------------------------------------------------------------------------------------------------------
+
+TTDID	KEGG pathway ID	KEGG pathway name
+T00140	hsa00590	Arachidonic acid metabolism
+T00140	hsa01100	Metabolic pathways
+T00140	hsa04726	Serotonergic synapse
+T00140	hsa04913	Ovarian steroidogenesis
+T00140	hsa05145	Toxoplasmosis
+T00494	hsa02010	ABC transporters
+T00494	hsa04975	Fat digestion and absorption
+T01318	hsa00240	Pyrimidine metabolism
+T01318	hsa01100	Metabolic pathways
+T01777	hsa04022	cGMP-PKG signaling pathway
+T01777	hsa04080	Neuroactive ligand-receptor interaction
+T02333	hsa04060	Cytokine-cytokine receptor interaction
+T02333	hsa04080	Neuroactive ligand-receptor interaction
+T02333	hsa04151	PI3K-Akt signaling pathway
+T02333	hsa04630	Jak-STAT signaling pathway
+T02551	hsa04080	Neuroactive ligand-receptor interaction
+T02551	hsa04728	Dopaminergic synapse
+T02808	hsa04060	Cytokine-cytokine receptor interaction
+T02808	hsa04151	PI3K-Akt signaling pathway
+T02808	hsa04380	Osteoclast differentiation
+T02808	hsa04620	Toll-like receptor signaling pathway
+T02808	hsa04622	RIG-I-like receptor signaling pathway
+T02808	hsa04623	Cytosolic DNA-sensing pathway
+T02808	hsa04630	Jak-STAT signaling pathway
+T02808	hsa04650	Natural killer cell mediated cytotoxicity
+T02808	hsa05142	Chagas disease (American trypanosomiasis)
+T02808	hsa05152	Tuberculosis
+T02808	hsa05160	Hepatitis C
+T02808	hsa05161	Hepatitis B
+T02808	hsa05162	Measles
+T02808	hsa05164	Influenza A
+T02808	hsa05168	Herpes simplex infection
+T03313	hsa04060	Cytokine-cytokine receptor interaction
+T03313	hsa04144	Endocytosis
+T03313	hsa04151	PI3K-Akt signaling pathway
+T03313	hsa04630	Jak-STAT signaling pathway
+T03313	hsa04640	Hematopoietic cell lineage
+T03313	hsa05162	Measles
+T03313	hsa05166	HTLV-I infection
+T03346	hsa04060	Cytokine-cytokine receptor interaction
+T03346	hsa04151	PI3K-Akt signaling pathway
+T03346	hsa04630	Jak-STAT signaling pathway
+T03346	hsa04640	Hematopoietic cell lineage
+T03346	hsa05321	Inflammatory bowel disease (IBD)
+T03661	hsa00230	Purine metabolism
+T03661	hsa01100	Metabolic pathways
+T03661	hsa05340	Primary immunodeficiency
+T03691	hsa00590	Arachidonic acid metabolism
+T03691	hsa01100	Metabolic pathways
+T05849	hsa04020	Calcium signaling pathway
+T05849	hsa04080	Neuroactive ligand-receptor interaction
+T05849	hsa04971	Gastric acid secretion
+T06273	hsa03410	Base excision repair
+T06273	hsa04064	NF-kappa B signaling pathway
+T06421	hsa04060	Cytokine-cytokine receptor interaction
+T06421	hsa04151	PI3K-Akt signaling pathway
+T06421	hsa04380	Osteoclast differentiation
+T06421	hsa04620	Toll-like receptor signaling pathway
+T06421	hsa04630	Jak-STAT signaling pathway
+T06421	hsa04650	Natural killer cell mediated cytotoxicity
+T06421	hsa05160	Hepatitis C
+T06421	hsa05161	Hepatitis B
+T06421	hsa05162	Measles
+T06421	hsa05164	Influenza A
+T06421	hsa05168	Herpes simplex infection
+T06841	hsa04060	Cytokine-cytokine receptor interaction
+T06841	hsa04620	Toll-like receptor signaling pathway
+T06841	hsa04622	RIG-I-like receptor signaling pathway
+T06841	hsa04630	Jak-STAT signaling pathway
+T06841	hsa04940	Type I diabetes mellitus
+T06841	hsa05133	Pertussis
+T06841	hsa05134	Legionellosis
+T06841	hsa05140	Leishmaniasis
+T06841	hsa05142	Chagas disease (American trypanosomiasis)
+T06841	hsa05143	African trypanosomiasis
+T06841	hsa05144	Malaria
+T06841	hsa05145	Toxoplasmosis
+T06841	hsa05146	Amoebiasis
+T06841	hsa05152	Tuberculosis
+T06841	hsa05162	Measles
+T06841	hsa05164	Influenza A
+T06841	hsa05168	Herpes simplex infection
+T06841	hsa05321	Inflammatory bowel disease (IBD)
+T06841	hsa05330	Allograft rejection
+T07137	mmu00130	Ubiquinone and other terpenoid-quinone biosynthesis
+T07137	mmu00350	Tyrosine metabolism
+T07137	mmu00360	Phenylalanine metabolism
+T07137	mmu01100	Metabolic pathways
+T07303	hsa04014	Ras signaling pathway
+T07303	hsa04015	Rap1 signaling pathway
+T07303	hsa04060	Cytokine-cytokine receptor interaction
+T07303	hsa04151	PI3K-Akt signaling pathway
+T07303	hsa04510	Focal adhesion
+T07663	hsa00230	Purine metabolism
+T07663	hsa04022	cGMP-PKG signaling pathway
+T07806	hsa04024	cAMP signaling pathway
+T07806	hsa04080	Neuroactive ligand-receptor interaction
+T07806	hsa04726	Serotonergic synapse
+T08898	hsa04024	cAMP signaling pathway
+T08898	hsa04080	Neuroactive ligand-receptor interaction
+T08910	hsa04080	Neuroactive ligand-receptor interaction
+T08910	hsa04723	Retrograde endocannabinoid signaling
+T08910	hsa04727	GABAergic synapse
+T08910	hsa05032	Morphine addiction
+T08910	hsa05033	Nicotine addiction
+T08922	hsa00061	Fatty acid biosynthesis
+T08922	hsa00620	Pyruvate metabolism
+T08922	hsa00640	Propanoate metabolism
+T08922	hsa01100	Metabolic pathways
+T08922	hsa01212	Fatty acid metabolism
+T08922	hsa04152	AMPK signaling pathway
+T08922	hsa04910	Insulin signaling pathway
+T08922	hsa04920	Adipocytokine signaling pathway
+T08922	hsa04922	Glucagon signaling pathway
+T09130	hsa04020	Calcium signaling pathway
+T09130	hsa04024	cAMP signaling pathway
+T09130	hsa04080	Neuroactive ligand-receptor interaction
+T09130	hsa04151	PI3K-Akt signaling pathway
+T09130	hsa04725	Cholinergic synapse
+T09130	hsa04810	Regulation of actin cytoskeleton
+T09423	hsa04971	Gastric acid secretion
+T09507	hsa04975	Fat digestion and absorption
+T09507	hsa04977	Vitamin digestion and absorption
+T09538	hsa00790	Folate biosynthesis
+T09538	hsa01100	Metabolic pathways
+T09909	hsa04080	Neuroactive ligand-receptor interaction
+T09909	hsa04261	Adrenergic signaling in cardiomyocytes
+T09909	hsa04614	Renin-angiotensin system
+T09960	hsa04060	Cytokine-cytokine receptor interaction
+T09960	hsa04062	Chemokine signaling pathway
+T09960	hsa04144	Endocytosis
+T09960	hsa05145	Toxoplasmosis
+T09960	hsa05203	Viral carcinogenesis
+T10897	mtc01100	Metabolic pathways
+T11072	hsa04024	cAMP signaling pathway
+T11072	hsa04080	Neuroactive ligand-receptor interaction
+T11072	hsa04726	Serotonergic synapse
+T11211	hsa04114	Oocyte meiosis
+T11211	hsa05200	Pathways in cancer
+T11211	hsa05215	Prostate cancer
+T11288	hsa02010	ABC transporters
+T11288	hsa04071	Sphingolipid signaling pathway
+T11288	hsa04977	Vitamin digestion and absorption
+T11288	hsa05206	MicroRNAs in cancer
+T11448	hsa04022	cGMP-PKG signaling pathway
+T11448	hsa04080	Neuroactive ligand-receptor interaction
+T11754	hsa04723	Retrograde endocannabinoid signaling
+T11843	hsa00130	Ubiquinone and other terpenoid-quinone biosynthesis
+T12187	mtu00473	D-Alanine metabolism
+T12187	mtu00550	Peptidoglycan biosynthesis
+T12187	mtu01100	Metabolic pathways
+T12187	mtu01502	Vancomycin resistance
+T12475	hsa04080	Neuroactive ligand-receptor interaction
+T12475	hsa04912	GnRH signaling pathway
+T12499	hsa04064	NF-kappa B signaling pathway
+T12499	hsa04380	Osteoclast differentiation
+T12499	hsa04650	Natural killer cell mediated cytotoxicity
+T12499	hsa04660	T cell receptor signaling pathway
+T12499	hsa05166	HTLV-I infection
+T12499	hsa05340	Primary immunodeficiency
+T12819	hsa04115	p53 signaling pathway
+T12819	hsa04120	Ubiquitin mediated proteolysis
+T12966	hsa04020	Calcium signaling pathway
+T12966	hsa04260	Cardiac muscle contraction
+T12966	hsa04261	Adrenergic signaling in cardiomyocytes
+T12966	hsa05410	Hypertrophic cardiomyopathy (HCM)
+T12966	hsa05414	Dilated cardiomyopathy
+T13201	hsa00910	Nitrogen metabolism
+T13251	hsa04060	Cytokine-cytokine receptor interaction
+T13251	hsa04620	Toll-like receptor signaling pathway
+T13251	hsa04622	RIG-I-like receptor signaling pathway
+T13251	hsa04630	Jak-STAT signaling pathway
+T13251	hsa04940	Type I diabetes mellitus
+T13251	hsa05133	Pertussis
+T13251	hsa05134	Legionellosis
+T13251	hsa05140	Leishmaniasis
+T13251	hsa05142	Chagas disease (American trypanosomiasis)
+T13251	hsa05143	African trypanosomiasis
+T13251	hsa05144	Malaria
+T13251	hsa05145	Toxoplasmosis
+T13251	hsa05146	Amoebiasis
+T13251	hsa05152	Tuberculosis
+T13251	hsa05162	Measles
+T13251	hsa05164	Influenza A
+T13251	hsa05168	Herpes simplex infection
+T13251	hsa05321	Inflammatory bowel disease (IBD)
+T13251	hsa05330	Allograft rejection
+T13259	hsa00250	Alanine, aspartate and glutamate metabolism
+T13259	hsa00650	Butanoate metabolism
+T13259	hsa01100	Metabolic pathways
+T13260	hsa00140	Steroid hormone biosynthesis
+T13260	hsa01100	Metabolic pathways
+T13260	hsa04913	Ovarian steroidogenesis
+T13644	hsa04080	Neuroactive ligand-receptor interaction
+T13726	hsa03320	PPAR signaling pathway
+T13726	hsa04151	PI3K-Akt signaling pathway
+T13726	hsa04919	Thyroid hormone signaling pathway
+T13726	hsa04920	Adipocytokine signaling pathway
+T13726	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T13726	hsa04976	Bile secretion
+T13726	hsa05160	Hepatitis C
+T13726	hsa05200	Pathways in cancer
+T13726	hsa05202	Transcriptional misregulation in cancer
+T13726	hsa05216	Thyroid cancer
+T13726	hsa05222	Small cell lung cancer
+T13726	hsa05223	Non-small cell lung cancer
+T13852	hsa04068	FoxO signaling pathway
+T13852	hsa04071	Sphingolipid signaling pathway
+T13852	hsa04080	Neuroactive ligand-receptor interaction
+T13999	hsa04970	Salivary secretion
+T13999	hsa04972	Pancreatic secretion
+T13999	hsa05110	Vibrio cholerae infection
+T14065	hsa04151	PI3K-Akt signaling pathway
+T14065	hsa04510	Focal adhesion
+T14065	hsa04512	ECM-receptor interaction
+T14065	hsa04514	Cell adhesion molecules (CAMs)
+T14065	hsa04672	Intestinal immune network for IgA production
+T14065	hsa04810	Regulation of actin cytoskeleton
+T14065	hsa05202	Transcriptional misregulation in cancer
+T14065	hsa05410	Hypertrophic cardiomyopathy (HCM)
+T14065	hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+T14065	hsa05414	Dilated cardiomyopathy
+T14597	hsa04012	ErbB signaling pathway
+T14597	hsa04020	Calcium signaling pathway
+T14597	hsa04066	HIF-1 signaling pathway
+T14597	hsa04510	Focal adhesion
+T14597	hsa04520	Adherens junction
+T14597	hsa05200	Pathways in cancer
+T14597	hsa05205	Proteoglycans in cancer
+T14597	hsa05206	MicroRNAs in cancer
+T14597	hsa05212	Pancreatic cancer
+T14597	hsa05213	Endometrial cancer
+T14597	hsa05215	Prostate cancer
+T14597	hsa05219	Bladder cancer
+T14597	hsa05223	Non-small cell lung cancer
+T14597	hsa05230	Central carbon metabolism in cancer
+T14602	hsa04610	Complement and coagulation cascades
+T14908	hsa00600	Sphingolipid metabolism
+T14908	hsa01100	Metabolic pathways
+T15000	hsa04514	Cell adhesion molecules (CAMs)
+T15000	hsa04660	T cell receptor signaling pathway
+T15000	hsa05320	Autoimmune thyroid disease
+T15000	hsa05323	Rheumatoid arthritis
+T15569	hsa00280	Valine, leucine and isoleucine degradation
+T15569	hsa00630	Glyoxylate and dicarboxylate metabolism
+T15569	hsa00640	Propanoate metabolism
+T15569	hsa01100	Metabolic pathways
+T15569	hsa01200	Carbon metabolism
+T16156	hsa04060	Cytokine-cytokine receptor interaction
+T16156	hsa04630	Jak-STAT signaling pathway
+T16514	hsa00061	Fatty acid biosynthesis
+T16514	hsa01100	Metabolic pathways
+T16514	hsa01212	Fatty acid metabolism
+T16514	hsa04152	AMPK signaling pathway
+T16514	hsa04910	Insulin signaling pathway
+T16633	hsa04024	cAMP signaling pathway
+T16633	hsa04080	Neuroactive ligand-receptor interaction
+T16688	hsa00561	Glycerolipid metabolism
+T16688	hsa00830	Retinol metabolism
+T16688	hsa01100	Metabolic pathways
+T16688	hsa04975	Fat digestion and absorption
+T16792	hsa04919	Thyroid hormone signaling pathway
+T17163	hsa04060	Cytokine-cytokine receptor interaction
+T17163	hsa04080	Neuroactive ligand-receptor interaction
+T17163	hsa04152	AMPK signaling pathway
+T17163	hsa04630	Jak-STAT signaling pathway
+T17163	hsa04920	Adipocytokine signaling pathway
+T17163	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T17345	hsa00670	One carbon pool by folate
+T17345	hsa00790	Folate biosynthesis
+T17345	hsa01100	Metabolic pathways
+T17448	hsa00340	Histidine metabolism
+T17758	hsa04064	NF-kappa B signaling pathway
+T17758	hsa04610	Complement and coagulation cascades
+T17758	hsa05202	Transcriptional misregulation in cancer
+T17758	hsa05205	Proteoglycans in cancer
+T17758	hsa05206	MicroRNAs in cancer
+T17980	hsa04071	Sphingolipid signaling pathway
+T17980	hsa04360	Axon guidance
+T17980	hsa04380	Osteoclast differentiation
+T17980	hsa04510	Focal adhesion
+T17980	hsa04520	Adherens junction
+T17980	hsa04611	Platelet activation
+T17980	hsa04650	Natural killer cell mediated cytotoxicity
+T17980	hsa04660	T cell receptor signaling pathway
+T17980	hsa04664	Fc epsilon RI signaling pathway
+T17980	hsa04725	Cholinergic synapse
+T17980	hsa05020	Prion diseases
+T17980	hsa05130	Pathogenic Escherichia coli infection
+T17980	hsa05162	Measles
+T17980	hsa05416	Viral myocarditis
+T19433	hsa00590	Arachidonic acid metabolism
+T19433	hsa01100	Metabolic pathways
+T19615	hsa04060	Cytokine-cytokine receptor interaction
+T19615	hsa04151	PI3K-Akt signaling pathway
+T19615	hsa04630	Jak-STAT signaling pathway
+T19615	hsa04640	Hematopoietic cell lineage
+T19615	hsa05144	Malaria
+T20178	hsa04010	MAPK signaling pathway
+T20178	hsa04060	Cytokine-cytokine receptor interaction
+T20178	hsa04064	NF-kappa B signaling pathway
+T20178	hsa04071	Sphingolipid signaling pathway
+T20178	hsa04150	mTOR signaling pathway
+T20178	hsa04210	Apoptosis
+T20178	hsa04350	TGF-beta signaling pathway
+T20178	hsa04380	Osteoclast differentiation
+T20178	hsa04612	Antigen processing and presentation
+T20178	hsa04620	Toll-like receptor signaling pathway
+T20178	hsa04621	NOD-like receptor signaling pathway
+T20178	hsa04622	RIG-I-like receptor signaling pathway
+T20178	hsa04640	Hematopoietic cell lineage
+T20178	hsa04650	Natural killer cell mediated cytotoxicity
+T20178	hsa04660	T cell receptor signaling pathway
+T20178	hsa04664	Fc epsilon RI signaling pathway
+T20178	hsa04668	TNF signaling pathway
+T20178	hsa04920	Adipocytokine signaling pathway
+T20178	hsa04930	Type II diabetes mellitus
+T20178	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T20178	hsa04940	Type I diabetes mellitus
+T20178	hsa05010	Alzheimer's disease
+T20178	hsa05014	Amyotrophic lateral sclerosis (ALS)
+T20178	hsa05133	Pertussis
+T20178	hsa05134	Legionellosis
+T20178	hsa05140	Leishmaniasis
+T20178	hsa05142	Chagas disease (American trypanosomiasis)
+T20178	hsa05143	African trypanosomiasis
+T20178	hsa05144	Malaria
+T20178	hsa05145	Toxoplasmosis
+T20178	hsa05146	Amoebiasis
+T20178	hsa05152	Tuberculosis
+T20178	hsa05160	Hepatitis C
+T20178	hsa05161	Hepatitis B
+T20178	hsa05164	Influenza A
+T20178	hsa05166	HTLV-I infection
+T20178	hsa05168	Herpes simplex infection
+T20178	hsa05205	Proteoglycans in cancer
+T20178	hsa05310	Asthma
+T20178	hsa05321	Inflammatory bowel disease (IBD)
+T20178	hsa05322	Systemic lupus erythematosus
+T20178	hsa05323	Rheumatoid arthritis
+T20178	hsa05330	Allograft rejection
+T20178	hsa05332	Graft-versus-host disease
+T20178	hsa05410	Hypertrophic cardiomyopathy (HCM)
+T20178	hsa05414	Dilated cardiomyopathy
+T20401	hsa00910	Nitrogen metabolism
+T20401	hsa04964	Proximal tubule bicarbonate reclamation
+T20401	hsa04966	Collecting duct acid secretion
+T20401	hsa04971	Gastric acid secretion
+T20401	hsa04972	Pancreatic secretion
+T20401	hsa04976	Bile secretion
+T20514	hsa00860	Porphyrin and chlorophyll metabolism
+T20514	hsa01100	Metabolic pathways
+T20709	hsa04080	Neuroactive ligand-receptor interaction
+T20709	hsa04725	Cholinergic synapse
+T20709	hsa04810	Regulation of actin cytoskeleton
+T20710	hsa04060	Cytokine-cytokine receptor interaction
+T20710	hsa04144	Endocytosis
+T20710	hsa04151	PI3K-Akt signaling pathway
+T20710	hsa04630	Jak-STAT signaling pathway
+T20710	hsa04640	Hematopoietic cell lineage
+T20710	hsa05162	Measles
+T20710	hsa05166	HTLV-I infection
+T20761	hsa04014	Ras signaling pathway
+T20761	hsa04015	Rap1 signaling pathway
+T20761	hsa04060	Cytokine-cytokine receptor interaction
+T20761	hsa04066	HIF-1 signaling pathway
+T20761	hsa04150	mTOR signaling pathway
+T20761	hsa04151	PI3K-Akt signaling pathway
+T20761	hsa04370	VEGF signaling pathway
+T20761	hsa04510	Focal adhesion
+T20761	hsa05200	Pathways in cancer
+T20761	hsa05205	Proteoglycans in cancer
+T20761	hsa05206	MicroRNAs in cancer
+T20761	hsa05211	Renal cell carcinoma
+T20761	hsa05212	Pancreatic cancer
+T20761	hsa05219	Bladder cancer
+T20761	hsa05323	Rheumatoid arthritis
+T21334	hsa04060	Cytokine-cytokine receptor interaction
+T21334	hsa04064	NF-kappa B signaling pathway
+T21334	hsa04380	Osteoclast differentiation
+T21334	hsa04917	Prolactin signaling pathway
+T21334	hsa05323	Rheumatoid arthritis
+T22095	hsa04060	Cytokine-cytokine receptor interaction
+T22095	hsa05321	Inflammatory bowel disease (IBD)
+T22095	hsa05323	Rheumatoid arthritis
+T22118	hsa04020	Calcium signaling pathway
+T22118	hsa04024	cAMP signaling pathway
+T22118	hsa04080	Neuroactive ligand-receptor interaction
+T22118	hsa04540	Gap junction
+T22118	hsa04728	Dopaminergic synapse
+T22118	hsa05012	Parkinson's disease
+T22118	hsa05030	Cocaine addiction
+T22118	hsa05031	Amphetamine addiction
+T22118	hsa05032	Morphine addiction
+T22118	hsa05034	Alcoholism
+T22212	hsa04145	Phagosome
+T22212	hsa04380	Osteoclast differentiation
+T22212	hsa04611	Platelet activation
+T22212	hsa04666	Fc gamma R-mediated phagocytosis
+T22212	hsa05140	Leishmaniasis
+T22212	hsa05150	Staphylococcus aureus infection
+T22212	hsa05152	Tuberculosis
+T22212	hsa05322	Systemic lupus erythematosus
+T22285	hsa04014	Ras signaling pathway
+T22285	hsa04015	Rap1 signaling pathway
+T22285	hsa04020	Calcium signaling pathway
+T22285	hsa04024	cAMP signaling pathway
+T22285	hsa04080	Neuroactive ligand-receptor interaction
+T22285	hsa04713	Circadian entrainment
+T22285	hsa04720	Long-term potentiation
+T22285	hsa04724	Glutamatergic synapse
+T22285	hsa04728	Dopaminergic synapse
+T22285	hsa05010	Alzheimer's disease
+T22285	hsa05014	Amyotrophic lateral sclerosis (ALS)
+T22285	hsa05030	Cocaine addiction
+T22285	hsa05031	Amphetamine addiction
+T22285	hsa05033	Nicotine addiction
+T22285	hsa05034	Alcoholism
+T22285	hsa05322	Systemic lupus erythematosus
+T22939	hsa04114	Oocyte meiosis
+T22939	hsa04914	Progesterone-mediated oocyte maturation
+T23003	hsa04010	MAPK signaling pathway
+T23003	hsa04012	ErbB signaling pathway
+T23003	hsa04014	Ras signaling pathway
+T23003	hsa04015	Rap1 signaling pathway
+T23003	hsa04022	cGMP-PKG signaling pathway
+T23003	hsa04024	cAMP signaling pathway
+T23003	hsa04062	Chemokine signaling pathway
+T23003	hsa04066	HIF-1 signaling pathway
+T23003	hsa04068	FoxO signaling pathway
+T23003	hsa04071	Sphingolipid signaling pathway
+T23003	hsa04114	Oocyte meiosis
+T23003	hsa04151	PI3K-Akt signaling pathway
+T23003	hsa04270	Vascular smooth muscle contraction
+T23003	hsa04320	Dorso-ventral axis formation
+T23003	hsa04370	VEGF signaling pathway
+T23003	hsa04380	Osteoclast differentiation
+T23003	hsa04510	Focal adhesion
+T23003	hsa04540	Gap junction
+T23003	hsa04550	Signaling pathways regulating pluripotency of stem cells
+T23003	hsa04620	Toll-like receptor signaling pathway
+T23003	hsa04650	Natural killer cell mediated cytotoxicity
+T23003	hsa04660	T cell receptor signaling pathway
+T23003	hsa04662	B cell receptor signaling pathway
+T23003	hsa04664	Fc epsilon RI signaling pathway
+T23003	hsa04666	Fc gamma R-mediated phagocytosis
+T23003	hsa04668	TNF signaling pathway
+T23003	hsa04720	Long-term potentiation
+T23003	hsa04722	Neurotrophin signaling pathway
+T23003	hsa04725	Cholinergic synapse
+T23003	hsa04726	Serotonergic synapse
+T23003	hsa04730	Long-term depression
+T23003	hsa04810	Regulation of actin cytoskeleton
+T23003	hsa04910	Insulin signaling pathway
+T23003	hsa04912	GnRH signaling pathway
+T23003	hsa04914	Progesterone-mediated oocyte maturation
+T23003	hsa04915	Estrogen signaling pathway
+T23003	hsa04916	Melanogenesis
+T23003	hsa04917	Prolactin signaling pathway
+T23003	hsa04919	Thyroid hormone signaling pathway
+T23003	hsa04921	Oxytocin signaling pathway
+T23003	hsa05020	Prion diseases
+T23003	hsa05034	Alcoholism
+T23003	hsa05161	Hepatitis B
+T23003	hsa05164	Influenza A
+T23003	hsa05200	Pathways in cancer
+T23003	hsa05205	Proteoglycans in cancer
+T23003	hsa05206	MicroRNAs in cancer
+T23003	hsa05210	Colorectal cancer
+T23003	hsa05211	Renal cell carcinoma
+T23003	hsa05212	Pancreatic cancer
+T23003	hsa05213	Endometrial cancer
+T23003	hsa05214	Glioma
+T23003	hsa05215	Prostate cancer
+T23003	hsa05216	Thyroid cancer
+T23003	hsa05218	Melanoma
+T23003	hsa05219	Bladder cancer
+T23003	hsa05220	Chronic myeloid leukemia
+T23003	hsa05221	Acute myeloid leukemia
+T23003	hsa05223	Non-small cell lung cancer
+T23003	hsa05230	Central carbon metabolism in cancer
+T23003	hsa05231	Choline metabolism in cancer
+T23145	hsa00140	Steroid hormone biosynthesis
+T23145	hsa01100	Metabolic pathways
+T23145	hsa04913	Ovarian steroidogenesis
+T23172	hsa04062	Chemokine signaling pathway
+T23172	hsa04151	PI3K-Akt signaling pathway
+T23172	hsa04550	Signaling pathways regulating pluripotency of stem cells
+T23172	hsa04630	Jak-STAT signaling pathway
+T23172	hsa05162	Measles
+T23172	hsa05166	HTLV-I infection
+T23172	hsa05169	Epstein-Barr virus infection
+T23172	hsa05203	Viral carcinogenesis
+T23172	hsa05340	Primary immunodeficiency
+T23292	hsa00531	Glycosaminoglycan degradation
+T23292	hsa01100	Metabolic pathways
+T23292	hsa04142	Lysosome
+T23499	hsa04020	Calcium signaling pathway
+T23499	hsa04022	cGMP-PKG signaling pathway
+T23499	hsa04024	cAMP signaling pathway
+T23499	hsa04080	Neuroactive ligand-receptor interaction
+T23499	hsa04270	Vascular smooth muscle contraction
+T23499	hsa04924	Renin secretion
+T23499	hsa05200	Pathways in cancer
+T23714	hsa04020	Calcium signaling pathway
+T23714	hsa04022	cGMP-PKG signaling pathway
+T23714	hsa04071	Sphingolipid signaling pathway
+T23714	hsa04080	Neuroactive ligand-receptor interaction
+T23714	hsa04610	Complement and coagulation cascades
+T23714	hsa04750	Inflammatory mediator regulation of TRP channels
+T23714	hsa04810	Regulation of actin cytoskeleton
+T23714	hsa04961	Endocrine and other factor-regulated calcium reabsorption
+T23714	hsa05142	Chagas disease (American trypanosomiasis)
+T23714	hsa05200	Pathways in cancer
+T24836	hsa04610	Complement and coagulation cascades
+T24983	hsa04080	Neuroactive ligand-receptor interaction
+T24983	hsa04728	Dopaminergic synapse
+T25005	hsa04064	NF-kappa B signaling pathway
+T25005	hsa04380	Osteoclast differentiation
+T25005	hsa04611	Platelet activation
+T25005	hsa04662	B cell receptor signaling pathway
+T25005	hsa04664	Fc epsilon RI signaling pathway
+T25005	hsa05340	Primary immunodeficiency
+T25163	hsa00250	Alanine, aspartate and glutamate metabolism
+T25163	hsa00330	Arginine and proline metabolism
+T25163	hsa00910	Nitrogen metabolism
+T25163	hsa01100	Metabolic pathways
+T25163	hsa01200	Carbon metabolism
+T25163	hsa01230	Biosynthesis of amino acids
+T25258	hsa02010	ABC transporters
+T25258	hsa04976	Bile secretion
+T25258	hsa05206	MicroRNAs in cancer
+T25464	hsa04010	MAPK signaling pathway
+T25464	hsa04020	Calcium signaling pathway
+T25464	hsa04022	cGMP-PKG signaling pathway
+T25464	hsa04114	Oocyte meiosis
+T25464	hsa04210	Apoptosis
+T25464	hsa04310	Wnt signaling pathway
+T25464	hsa04360	Axon guidance
+T25464	hsa04370	VEGF signaling pathway
+T25464	hsa04380	Osteoclast differentiation
+T25464	hsa04650	Natural killer cell mediated cytotoxicity
+T25464	hsa04660	T cell receptor signaling pathway
+T25464	hsa04662	B cell receptor signaling pathway
+T25464	hsa04720	Long-term potentiation
+T25464	hsa04724	Glutamatergic synapse
+T25464	hsa04728	Dopaminergic synapse
+T25464	hsa04921	Oxytocin signaling pathway
+T25464	hsa04922	Glucagon signaling pathway
+T25464	hsa05010	Alzheimer's disease
+T25464	hsa05014	Amyotrophic lateral sclerosis (ALS)
+T25464	hsa05031	Amphetamine addiction
+T25464	hsa05152	Tuberculosis
+T25464	hsa05166	HTLV-I infection
+T26623	hsa00040	Pentose and glucuronate interconversions
+T26623	hsa00051	Fructose and mannose metabolism
+T26623	hsa00052	Galactose metabolism
+T26623	hsa00561	Glycerolipid metabolism
+T26623	hsa01100	Metabolic pathways
+T27376	hsa04080	Neuroactive ligand-receptor interaction
+T27376	hsa04723	Retrograde endocannabinoid signaling
+T27376	hsa04727	GABAergic synapse
+T27376	hsa05032	Morphine addiction
+T27376	hsa05033	Nicotine addiction
+T27812	hsa04726	Serotonergic synapse
+T28076	hsa04010	MAPK signaling pathway
+T28076	hsa04014	Ras signaling pathway
+T28076	hsa04015	Rap1 signaling pathway
+T28076	hsa04151	PI3K-Akt signaling pathway
+T28076	hsa04810	Regulation of actin cytoskeleton
+T28076	hsa05200	Pathways in cancer
+T28076	hsa05218	Melanoma
+T28265	hsa04610	Complement and coagulation cascades
+T28692	hsa00561	Glycerolipid metabolism
+T28692	hsa03320	PPAR signaling pathway
+T28692	hsa05010	Alzheimer's disease
+T28722	hsa04080	Neuroactive ligand-receptor interaction
+T28722	hsa04723	Retrograde endocannabinoid signaling
+T28722	hsa04727	GABAergic synapse
+T28722	hsa05032	Morphine addiction
+T28722	hsa05033	Nicotine addiction
+T28893	hsa04020	Calcium signaling pathway
+T28893	hsa04024	cAMP signaling pathway
+T28893	hsa04080	Neuroactive ligand-receptor interaction
+T28893	hsa04151	PI3K-Akt signaling pathway
+T28893	hsa04725	Cholinergic synapse
+T28893	hsa04810	Regulation of actin cytoskeleton
+T28925	hsa00230	Purine metabolism
+T28925	hsa00983	Drug metabolism - other enzymes
+T28925	hsa01100	Metabolic pathways
+T28993	hsa00531	Glycosaminoglycan degradation
+T28993	hsa01100	Metabolic pathways
+T28993	hsa04142	Lysosome
+T29130	hsa04062	Chemokine signaling pathway
+T29130	hsa04066	HIF-1 signaling pathway
+T29130	hsa04068	FoxO signaling pathway
+T29130	hsa04550	Signaling pathways regulating pluripotency of stem cells
+T29130	hsa04630	Jak-STAT signaling pathway
+T29130	hsa04917	Prolactin signaling pathway
+T29130	hsa04920	Adipocytokine signaling pathway
+T29130	hsa05145	Toxoplasmosis
+T29130	hsa05160	Hepatitis C
+T29130	hsa05161	Hepatitis B
+T29130	hsa05162	Measles
+T29130	hsa05169	Epstein-Barr virus infection
+T29130	hsa05200	Pathways in cancer
+T29130	hsa05203	Viral carcinogenesis
+T29130	hsa05205	Proteoglycans in cancer
+T29130	hsa05206	MicroRNAs in cancer
+T29130	hsa05212	Pancreatic cancer
+T29130	hsa05221	Acute myeloid leukemia
+T29130	hsa05321	Inflammatory bowel disease (IBD)
+T29303	hsa04728	Dopaminergic synapse
+T29500	hsa04020	Calcium signaling pathway
+T29500	hsa04022	cGMP-PKG signaling pathway
+T29500	hsa04080	Neuroactive ligand-receptor interaction
+T29500	hsa04261	Adrenergic signaling in cardiomyocytes
+T29500	hsa04270	Vascular smooth muscle contraction
+T29500	hsa04970	Salivary secretion
+T30040	hsa04014	Ras signaling pathway
+T30040	hsa04015	Rap1 signaling pathway
+T30040	hsa04060	Cytokine-cytokine receptor interaction
+T30040	hsa04151	PI3K-Akt signaling pathway
+T30040	hsa04510	Focal adhesion
+T30040	hsa05200	Pathways in cancer
+T30082	hsa00564	Glycerophospholipid metabolism
+T30082	hsa04725	Cholinergic synapse
+T30284	hsa04060	Cytokine-cytokine receptor interaction
+T30284	hsa04066	HIF-1 signaling pathway
+T30284	hsa04380	Osteoclast differentiation
+T30284	hsa04630	Jak-STAT signaling pathway
+T30284	hsa04650	Natural killer cell mediated cytotoxicity
+T30284	hsa05132	Salmonella infection
+T30284	hsa05140	Leishmaniasis
+T30284	hsa05142	Chagas disease (American trypanosomiasis)
+T30284	hsa05145	Toxoplasmosis
+T30284	hsa05152	Tuberculosis
+T30284	hsa05162	Measles
+T30284	hsa05164	Influenza A
+T30284	hsa05168	Herpes simplex infection
+T30284	hsa05321	Inflammatory bowel disease (IBD)
+T30938	mtu00230	Purine metabolism
+T30938	mtu00240	Pyrimidine metabolism
+T30938	mtu01100	Metabolic pathways
+T30938	mtu03020	RNA polymerase
+T30985	hsa04020	Calcium signaling pathway
+T30985	hsa04080	Neuroactive ligand-receptor interaction
+T30985	hsa04971	Gastric acid secretion
+T31204	hsa04020	Calcium signaling pathway
+T31204	hsa04080	Neuroactive ligand-receptor interaction
+T31204	hsa04540	Gap junction
+T31204	hsa04726	Serotonergic synapse
+T31204	hsa04750	Inflammatory mediator regulation of TRP channels
+T31309	hsa04064	NF-kappa B signaling pathway
+T31309	hsa04066	HIF-1 signaling pathway
+T31309	hsa04071	Sphingolipid signaling pathway
+T31309	hsa04141	Protein processing in endoplasmic reticulum
+T31309	hsa04151	PI3K-Akt signaling pathway
+T31309	hsa04210	Apoptosis
+T31309	hsa04261	Adrenergic signaling in cardiomyocytes
+T31309	hsa04510	Focal adhesion
+T31309	hsa04722	Neurotrophin signaling pathway
+T31309	hsa04725	Cholinergic synapse
+T31309	hsa05014	Amyotrophic lateral sclerosis (ALS)
+T31309	hsa05145	Toxoplasmosis
+T31309	hsa05152	Tuberculosis
+T31309	hsa05161	Hepatitis B
+T31309	hsa05169	Epstein-Barr virus infection
+T31309	hsa05200	Pathways in cancer
+T31309	hsa05206	MicroRNAs in cancer
+T31309	hsa05210	Colorectal cancer
+T31309	hsa05215	Prostate cancer
+T31309	hsa05222	Small cell lung cancer
+T31391	hsa04974	Protein digestion and absorption
+T31479	hsa00564	Glycerophospholipid metabolism
+T31479	hsa00565	Ether lipid metabolism
+T31479	hsa00590	Arachidonic acid metabolism
+T31479	hsa00591	Linoleic acid metabolism
+T31479	hsa00592	alpha-Linolenic acid metabolism
+T31479	hsa01100	Metabolic pathways
+T31479	hsa04014	Ras signaling pathway
+T31479	hsa04270	Vascular smooth muscle contraction
+T31479	hsa04972	Pancreatic secretion
+T31479	hsa04975	Fat digestion and absorption
+T31595	stm00511	Other glycan degradation
+T31621	hsa04010	MAPK signaling pathway
+T31621	hsa04014	Ras signaling pathway
+T31621	hsa04015	Rap1 signaling pathway
+T31621	hsa04151	PI3K-Akt signaling pathway
+T31621	hsa04550	Signaling pathways regulating pluripotency of stem cells
+T31621	hsa04810	Regulation of actin cytoskeleton
+T31621	hsa05200	Pathways in cancer
+T31621	hsa05205	Proteoglycans in cancer
+T31621	hsa05218	Melanoma
+T31992	hsa00910	Nitrogen metabolism
+T32060	hsa04020	Calcium signaling pathway
+T32060	hsa04080	Neuroactive ligand-receptor interaction
+T32060	hsa04540	Gap junction
+T32060	hsa04726	Serotonergic synapse
+T32060	hsa04750	Inflammatory mediator regulation of TRP channels
+T32247	hsa04080	Neuroactive ligand-receptor interaction
+T32247	hsa04380	Osteoclast differentiation
+T32578	hsa04060	Cytokine-cytokine receptor interaction
+T32578	hsa04066	HIF-1 signaling pathway
+T32578	hsa04068	FoxO signaling pathway
+T32578	hsa04151	PI3K-Akt signaling pathway
+T32578	hsa04620	Toll-like receptor signaling pathway
+T32578	hsa04621	NOD-like receptor signaling pathway
+T32578	hsa04623	Cytosolic DNA-sensing pathway
+T32578	hsa04630	Jak-STAT signaling pathway
+T32578	hsa04640	Hematopoietic cell lineage
+T32578	hsa04668	TNF signaling pathway
+T32578	hsa04672	Intestinal immune network for IgA production
+T32578	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T32578	hsa05020	Prion diseases
+T32578	hsa05132	Salmonella infection
+T32578	hsa05133	Pertussis
+T32578	hsa05134	Legionellosis
+T32578	hsa05142	Chagas disease (American trypanosomiasis)
+T32578	hsa05143	African trypanosomiasis
+T32578	hsa05144	Malaria
+T32578	hsa05146	Amoebiasis
+T32578	hsa05152	Tuberculosis
+T32578	hsa05161	Hepatitis B
+T32578	hsa05162	Measles
+T32578	hsa05164	Influenza A
+T32578	hsa05166	HTLV-I infection
+T32578	hsa05168	Herpes simplex infection
+T32578	hsa05200	Pathways in cancer
+T32578	hsa05202	Transcriptional misregulation in cancer
+T32578	hsa05321	Inflammatory bowel disease (IBD)
+T32578	hsa05323	Rheumatoid arthritis
+T32578	hsa05332	Graft-versus-host disease
+T32578	hsa05410	Hypertrophic cardiomyopathy (HCM)
+T33901	hsa04975	Fat digestion and absorption
+T34234	hsa04961	Endocrine and other factor-regulated calcium reabsorption
+T34234	hsa04978	Mineral absorption
+T34234	hsa05152	Tuberculosis
+T34318	hsa04970	Salivary secretion
+T34318	hsa05152	Tuberculosis
+T34429	hsa04020	Calcium signaling pathway
+T34429	hsa04080	Neuroactive ligand-receptor interaction
+T34429	hsa04725	Cholinergic synapse
+T34429	hsa05033	Nicotine addiction
+T34429	hsa05204	Chemical carcinogenesis
+T34843	hsa04080	Neuroactive ligand-receptor interaction
+T35640	hsa04015	Rap1 signaling pathway
+T35640	hsa04514	Cell adhesion molecules (CAMs)
+T35640	hsa04650	Natural killer cell mediated cytotoxicity
+T35640	hsa04670	Leukocyte transendothelial migration
+T35640	hsa04810	Regulation of actin cytoskeleton
+T35640	hsa05144	Malaria
+T35640	hsa05150	Staphylococcus aureus infection
+T35640	hsa05166	HTLV-I infection
+T35640	hsa05169	Epstein-Barr virus infection
+T35640	hsa05323	Rheumatoid arthritis
+T35640	hsa05416	Viral myocarditis
+T36075	hsa04024	cAMP signaling pathway
+T36075	hsa04080	Neuroactive ligand-receptor interaction
+T36075	hsa04911	Insulin secretion
+T36098	hsa00900	Terpenoid backbone biosynthesis
+T36098	hsa01100	Metabolic pathways
+T36098	hsa01130	Biosynthesis of antibiotics
+T36098	hsa05164	Influenza A
+T36098	hsa05166	HTLV-I infection
+T36483	hsa04015	Rap1 signaling pathway
+T36483	hsa04020	Calcium signaling pathway
+T36483	hsa04024	cAMP signaling pathway
+T36483	hsa04080	Neuroactive ligand-receptor interaction
+T36483	hsa04144	Endocytosis
+T36483	hsa04151	PI3K-Akt signaling pathway
+T36483	hsa04610	Complement and coagulation cascades
+T36483	hsa04611	Platelet activation
+T36483	hsa04810	Regulation of actin cytoskeleton
+T36483	hsa05200	Pathways in cancer
+T37046	hsa00860	Porphyrin and chlorophyll metabolism
+T37510	hsa04610	Complement and coagulation cascades
+T37539	hsa04514	Cell adhesion molecules (CAMs)
+T37539	hsa04640	Hematopoietic cell lineage
+T37539	hsa04662	B cell receptor signaling pathway
+T37693	hsa04080	Neuroactive ligand-receptor interaction
+T38301	hsa00230	Purine metabolism
+T38301	hsa00240	Pyrimidine metabolism
+T38301	hsa00480	Glutathione metabolism
+T38301	hsa01100	Metabolic pathways
+T38301	hsa04115	p53 signaling pathway
+T38338	hsa04010	MAPK signaling pathway
+T38338	hsa04020	Calcium signaling pathway
+T38338	hsa04721	Synaptic vesicle cycle
+T38338	hsa04723	Retrograde endocannabinoid signaling
+T38338	hsa04725	Cholinergic synapse
+T38338	hsa04726	Serotonergic synapse
+T38338	hsa04727	GABAergic synapse
+T38338	hsa04728	Dopaminergic synapse
+T38338	hsa04742	Taste transduction
+T38338	hsa04930	Type II diabetes mellitus
+T38338	hsa05032	Morphine addiction
+T38338	hsa05033	Nicotine addiction
+T38529	hsa04024	cAMP signaling pathway
+T38529	hsa04080	Neuroactive ligand-receptor interaction
+T38529	hsa04750	Inflammatory mediator regulation of TRP channels
+T38529	hsa04924	Renin secretion
+T38529	hsa05200	Pathways in cancer
+T38950	hsa04640	Hematopoietic cell lineage
+T39610	hsa04014	Ras signaling pathway
+T39610	hsa04015	Rap1 signaling pathway
+T39610	hsa04020	Calcium signaling pathway
+T39610	hsa04022	cGMP-PKG signaling pathway
+T39610	hsa04024	cAMP signaling pathway
+T39610	hsa04070	Phosphatidylinositol signaling system
+T39610	hsa04114	Oocyte meiosis
+T39610	hsa04261	Adrenergic signaling in cardiomyocytes
+T39610	hsa04270	Vascular smooth muscle contraction
+T39610	hsa04713	Circadian entrainment
+T39610	hsa04720	Long-term potentiation
+T39610	hsa04722	Neurotrophin signaling pathway
+T39610	hsa04728	Dopaminergic synapse
+T39610	hsa04740	Olfactory transduction
+T39610	hsa04744	Phototransduction
+T39610	hsa04750	Inflammatory mediator regulation of TRP channels
+T39610	hsa04910	Insulin signaling pathway
+T39610	hsa04912	GnRH signaling pathway
+T39610	hsa04915	Estrogen signaling pathway
+T39610	hsa04916	Melanogenesis
+T39610	hsa04921	Oxytocin signaling pathway
+T39610	hsa04922	Glucagon signaling pathway
+T39610	hsa04970	Salivary secretion
+T39610	hsa04971	Gastric acid secretion
+T39610	hsa05010	Alzheimer's disease
+T39610	hsa05031	Amphetamine addiction
+T39610	hsa05034	Alcoholism
+T39610	hsa05133	Pertussis
+T39610	hsa05152	Tuberculosis
+T39610	hsa05214	Glioma
+T39716	hsa04261	Adrenergic signaling in cardiomyocytes
+T40016	hsa04080	Neuroactive ligand-receptor interaction
+T40474	hsa04014	Ras signaling pathway
+T40474	hsa04015	Rap1 signaling pathway
+T40474	hsa04060	Cytokine-cytokine receptor interaction
+T40474	hsa04144	Endocytosis
+T40474	hsa04151	PI3K-Akt signaling pathway
+T40474	hsa04360	Axon guidance
+T40474	hsa04510	Focal adhesion
+T40474	hsa04520	Adherens junction
+T40474	hsa05100	Bacterial invasion of epithelial cells
+T40474	hsa05120	Epithelial cell signaling in Helicobacter pylori infection
+T40474	hsa05144	Malaria
+T40474	hsa05200	Pathways in cancer
+T40474	hsa05202	Transcriptional misregulation in cancer
+T40474	hsa05205	Proteoglycans in cancer
+T40474	hsa05206	MicroRNAs in cancer
+T40474	hsa05211	Renal cell carcinoma
+T40474	hsa05218	Melanoma
+T40474	hsa05230	Central carbon metabolism in cancer
+T40800	hsa04022	cGMP-PKG signaling pathway
+T40800	hsa04024	cAMP signaling pathway
+T40800	hsa04260	Cardiac muscle contraction
+T40800	hsa04261	Adrenergic signaling in cardiomyocytes
+T40800	hsa04911	Insulin secretion
+T40800	hsa04918	Thyroid hormone synthesis
+T40800	hsa04919	Thyroid hormone signaling pathway
+T40800	hsa04960	Aldosterone-regulated sodium reabsorption
+T40800	hsa04961	Endocrine and other factor-regulated calcium reabsorption
+T40800	hsa04964	Proximal tubule bicarbonate reclamation
+T40800	hsa04970	Salivary secretion
+T40800	hsa04971	Gastric acid secretion
+T40800	hsa04972	Pancreatic secretion
+T40800	hsa04973	Carbohydrate digestion and absorption
+T40800	hsa04974	Protein digestion and absorption
+T40800	hsa04976	Bile secretion
+T40800	hsa04978	Mineral absorption
+T40954	hsa00230	Purine metabolism
+T40954	hsa00232	Caffeine metabolism
+T40954	hsa00983	Drug metabolism - other enzymes
+T40954	hsa01100	Metabolic pathways
+T40954	hsa04146	Peroxisome
+T41580	hsa04022	cGMP-PKG signaling pathway
+T41580	hsa04080	Neuroactive ligand-receptor interaction
+T41955	hsa04750	Inflammatory mediator regulation of TRP channels
+T42000	hsa04010	MAPK signaling pathway
+T42000	hsa04060	Cytokine-cytokine receptor interaction
+T42000	hsa04064	NF-kappa B signaling pathway
+T42000	hsa04210	Apoptosis
+T42000	hsa04380	Osteoclast differentiation
+T42000	hsa04620	Toll-like receptor signaling pathway
+T42000	hsa04621	NOD-like receptor signaling pathway
+T42000	hsa04623	Cytosolic DNA-sensing pathway
+T42000	hsa04640	Hematopoietic cell lineage
+T42000	hsa04668	TNF signaling pathway
+T42000	hsa04750	Inflammatory mediator regulation of TRP channels
+T42000	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T42000	hsa04940	Type I diabetes mellitus
+T42000	hsa05010	Alzheimer's disease
+T42000	hsa05020	Prion diseases
+T42000	hsa05132	Salmonella infection
+T42000	hsa05133	Pertussis
+T42000	hsa05134	Legionellosis
+T42000	hsa05140	Leishmaniasis
+T42000	hsa05142	Chagas disease (American trypanosomiasis)
+T42000	hsa05143	African trypanosomiasis
+T42000	hsa05144	Malaria
+T42000	hsa05146	Amoebiasis
+T42000	hsa05152	Tuberculosis
+T42000	hsa05162	Measles
+T42000	hsa05164	Influenza A
+T42000	hsa05168	Herpes simplex infection
+T42000	hsa05321	Inflammatory bowel disease (IBD)
+T42000	hsa05323	Rheumatoid arthritis
+T42000	hsa05332	Graft-versus-host disease
+T42446	hsa04024	cAMP signaling pathway
+T42446	hsa04080	Neuroactive ligand-receptor interaction
+T42446	hsa04727	GABAergic synapse
+T42446	hsa04915	Estrogen signaling pathway
+T42446	hsa05032	Morphine addiction
+T42822	hsa00860	Porphyrin and chlorophyll metabolism
+T42822	hsa01100	Metabolic pathways
+T43332	hsa04610	Complement and coagulation cascades
+T44068	hsa04020	Calcium signaling pathway
+T44068	hsa04022	cGMP-PKG signaling pathway
+T44068	hsa04024	cAMP signaling pathway
+T44068	hsa04080	Neuroactive ligand-receptor interaction
+T44068	hsa04144	Endocytosis
+T44068	hsa04261	Adrenergic signaling in cardiomyocytes
+T44068	hsa04540	Gap junction
+T44068	hsa04970	Salivary secretion
+T44068	hsa05414	Dilated cardiomyopathy
+T45262	hsa04080	Neuroactive ligand-receptor interaction
+T45262	hsa04730	Long-term depression
+T45598	hsa04060	Cytokine-cytokine receptor interaction
+T45598	hsa04140	Regulation of autophagy
+T45598	hsa04151	PI3K-Akt signaling pathway
+T45598	hsa04620	Toll-like receptor signaling pathway
+T45598	hsa04622	RIG-I-like receptor signaling pathway
+T45598	hsa04623	Cytosolic DNA-sensing pathway
+T45598	hsa04630	Jak-STAT signaling pathway
+T45598	hsa04650	Natural killer cell mediated cytotoxicity
+T45598	hsa05152	Tuberculosis
+T45598	hsa05160	Hepatitis C
+T45598	hsa05161	Hepatitis B
+T45598	hsa05162	Measles
+T45598	hsa05164	Influenza A
+T45598	hsa05168	Herpes simplex infection
+T45598	hsa05320	Autoimmune thyroid disease
+T46185	hsa04020	Calcium signaling pathway
+T46185	hsa04024	cAMP signaling pathway
+T46185	hsa04080	Neuroactive ligand-receptor interaction
+T46185	hsa04151	PI3K-Akt signaling pathway
+T46185	hsa04725	Cholinergic synapse
+T46185	hsa04810	Regulation of actin cytoskeleton
+T46456	hsa03320	PPAR signaling pathway
+T46456	hsa04919	Thyroid hormone signaling pathway
+T46456	hsa04920	Adipocytokine signaling pathway
+T46456	hsa05200	Pathways in cancer
+T46456	hsa05202	Transcriptional misregulation in cancer
+T46456	hsa05216	Thyroid cancer
+T46456	hsa05222	Small cell lung cancer
+T46456	hsa05223	Non-small cell lung cancer
+T46482	hsa04620	Toll-like receptor signaling pathway
+T46482	hsa05162	Measles
+T46482	hsa05164	Influenza A
+T46628	hsa04975	Fat digestion and absorption
+T46828	hsa04020	Calcium signaling pathway
+T46828	hsa04024	cAMP signaling pathway
+T46828	hsa04080	Neuroactive ligand-receptor interaction
+T46828	hsa04728	Dopaminergic synapse
+T46904	hsa04080	Neuroactive ligand-receptor interaction
+T46904	hsa04972	Pancreatic secretion
+T46904	hsa04976	Bile secretion
+T46937	hsa04611	Platelet activation
+T47094	hsa04020	Calcium signaling pathway
+T47094	hsa04080	Neuroactive ligand-receptor interaction
+T47094	hsa05162	Measles
+T47107	hsa04010	MAPK signaling pathway
+T47107	hsa04012	ErbB signaling pathway
+T47107	hsa04014	Ras signaling pathway
+T47107	hsa04015	Rap1 signaling pathway
+T47107	hsa04020	Calcium signaling pathway
+T47107	hsa04066	HIF-1 signaling pathway
+T47107	hsa04070	Phosphatidylinositol signaling system
+T47107	hsa04071	Sphingolipid signaling pathway
+T47107	hsa04150	mTOR signaling pathway
+T47107	hsa04270	Vascular smooth muscle contraction
+T47107	hsa04310	Wnt signaling pathway
+T47107	hsa04370	VEGF signaling pathway
+T47107	hsa04510	Focal adhesion
+T47107	hsa04530	Tight junction
+T47107	hsa04540	Gap junction
+T47107	hsa04650	Natural killer cell mediated cytotoxicity
+T47107	hsa04666	Fc gamma R-mediated phagocytosis
+T47107	hsa04670	Leukocyte transendothelial migration
+T47107	hsa04713	Circadian entrainment
+T47107	hsa04720	Long-term potentiation
+T47107	hsa04723	Retrograde endocannabinoid signaling
+T47107	hsa04724	Glutamatergic synapse
+T47107	hsa04725	Cholinergic synapse
+T47107	hsa04726	Serotonergic synapse
+T47107	hsa04727	GABAergic synapse
+T47107	hsa04728	Dopaminergic synapse
+T47107	hsa04730	Long-term depression
+T47107	hsa04750	Inflammatory mediator regulation of TRP channels
+T47107	hsa04911	Insulin secretion
+T47107	hsa04916	Melanogenesis
+T47107	hsa04918	Thyroid hormone synthesis
+T47107	hsa04919	Thyroid hormone signaling pathway
+T47107	hsa04921	Oxytocin signaling pathway
+T47107	hsa04960	Aldosterone-regulated sodium reabsorption
+T47107	hsa04961	Endocrine and other factor-regulated calcium reabsorption
+T47107	hsa04970	Salivary secretion
+T47107	hsa04971	Gastric acid secretion
+T47107	hsa04972	Pancreatic secretion
+T47107	hsa05031	Amphetamine addiction
+T47107	hsa05032	Morphine addiction
+T47107	hsa05110	Vibrio cholerae infection
+T47107	hsa05143	African trypanosomiasis
+T47107	hsa05146	Amoebiasis
+T47107	hsa05161	Hepatitis B
+T47107	hsa05200	Pathways in cancer
+T47107	hsa05205	Proteoglycans in cancer
+T47107	hsa05206	MicroRNAs in cancer
+T47107	hsa05214	Glioma
+T47107	hsa05223	Non-small cell lung cancer
+T47107	hsa05231	Choline metabolism in cancer
+T47610	hsa04060	Cytokine-cytokine receptor interaction
+T47610	hsa04630	Jak-STAT signaling pathway
+T47610	hsa04640	Hematopoietic cell lineage
+T47768	hsa04080	Neuroactive ligand-receptor interaction
+T47768	hsa04915	Estrogen signaling pathway
+T47768	hsa05032	Morphine addiction
+T48069	hsa04014	Ras signaling pathway
+T48069	hsa04015	Rap1 signaling pathway
+T48069	hsa04066	HIF-1 signaling pathway
+T48069	hsa04068	FoxO signaling pathway
+T48069	hsa04114	Oocyte meiosis
+T48069	hsa04144	Endocytosis
+T48069	hsa04151	PI3K-Akt signaling pathway
+T48069	hsa04152	AMPK signaling pathway
+T48069	hsa04510	Focal adhesion
+T48069	hsa04520	Adherens junction
+T48069	hsa04550	Signaling pathways regulating pluripotency of stem cells
+T48069	hsa04730	Long-term depression
+T48069	hsa04913	Ovarian steroidogenesis
+T48069	hsa04914	Progesterone-mediated oocyte maturation
+T48069	hsa05200	Pathways in cancer
+T48069	hsa05202	Transcriptional misregulation in cancer
+T48069	hsa05205	Proteoglycans in cancer
+T48069	hsa05214	Glioma
+T48069	hsa05215	Prostate cancer
+T48069	hsa05218	Melanoma
+T48268	hsa04080	Neuroactive ligand-receptor interaction
+T48268	hsa04713	Circadian entrainment
+T48873	hsa04721	Synaptic vesicle cycle
+T48873	hsa04726	Serotonergic synapse
+T48873	hsa04728	Dopaminergic synapse
+T48873	hsa05012	Parkinson's disease
+T48873	hsa05030	Cocaine addiction
+T48873	hsa05031	Amphetamine addiction
+T48873	hsa05034	Alcoholism
+T49493	hsa05143	African trypanosomiasis
+T49493	hsa05144	Malaria
+T49526	hsa04261	Adrenergic signaling in cardiomyocytes
+T49526	hsa04725	Cholinergic synapse
+T49526	hsa04971	Gastric acid secretion
+T49526	hsa04972	Pancreatic secretion
+T49526	hsa04974	Protein digestion and absorption
+T49526	hsa05110	Vibrio cholerae infection
+T50066	hsa04978	Mineral absorption
+T50269	hsa04080	Neuroactive ligand-receptor interaction
+T50912	hsa04514	Cell adhesion molecules (CAMs)
+T50912	hsa04620	Toll-like receptor signaling pathway
+T50912	hsa04672	Intestinal immune network for IgA production
+T50912	hsa04940	Type I diabetes mellitus
+T50912	hsa05202	Transcriptional misregulation in cancer
+T50912	hsa05320	Autoimmune thyroid disease
+T50912	hsa05322	Systemic lupus erythematosus
+T50912	hsa05323	Rheumatoid arthritis
+T50912	hsa05330	Allograft rejection
+T50912	hsa05332	Graft-versus-host disease
+T50912	hsa05416	Viral myocarditis
+T50918	hsa04020	Calcium signaling pathway
+T50918	hsa04080	Neuroactive ligand-receptor interaction
+T50918	hsa04725	Cholinergic synapse
+T50918	hsa04810	Regulation of actin cytoskeleton
+T51120	hsa00350	Tyrosine metabolism
+T51120	hsa01100	Metabolic pathways
+T51120	hsa04918	Thyroid hormone synthesis
+T51120	hsa05320	Autoimmune thyroid disease
+T51408	hsa04020	Calcium signaling pathway
+T51408	hsa04022	cGMP-PKG signaling pathway
+T51408	hsa04080	Neuroactive ligand-receptor interaction
+T51408	hsa04144	Endocytosis
+T51408	hsa04970	Salivary secretion
+T51426	hsa04976	Bile secretion
+T51487	hsa04080	Neuroactive ligand-receptor interaction
+T51487	hsa04723	Retrograde endocannabinoid signaling
+T51487	hsa04727	GABAergic synapse
+T51487	hsa05032	Morphine addiction
+T51487	hsa05033	Nicotine addiction
+T51666	hsa00190	Oxidative phosphorylation
+T51666	hsa04966	Collecting duct acid secretion
+T51666	hsa04971	Gastric acid secretion
+T52173	hsa04742	Taste transduction
+T52173	hsa04960	Aldosterone-regulated sodium reabsorption
+T52227	hsa00240	Pyrimidine metabolism
+T52227	hsa00670	One carbon pool by folate
+T52227	hsa01100	Metabolic pathways
+T52373	hsa00900	Terpenoid backbone biosynthesis
+T52373	hsa01100	Metabolic pathways
+T52373	hsa01130	Biosynthesis of antibiotics
+T52373	hsa05164	Influenza A
+T52373	hsa05166	HTLV-I infection
+T52450	hsa03320	PPAR signaling pathway
+T52450	hsa05200	Pathways in cancer
+T52450	hsa05219	Bladder cancer
+T52450	hsa05323	Rheumatoid arthritis
+T52522	hsa04020	Calcium signaling pathway
+T52522	hsa04022	cGMP-PKG signaling pathway
+T52522	hsa04024	cAMP signaling pathway
+T52522	hsa04080	Neuroactive ligand-receptor interaction
+T52522	hsa04144	Endocytosis
+T52522	hsa04261	Adrenergic signaling in cardiomyocytes
+T52522	hsa04970	Salivary secretion
+T53024	hsa04024	cAMP signaling pathway
+T53024	hsa04080	Neuroactive ligand-receptor interaction
+T53024	hsa04971	Gastric acid secretion
+T53103	hsa00531	Glycosaminoglycan degradation
+T53103	hsa01100	Metabolic pathways
+T53103	hsa04142	Lysosome
+T53378	hsa00910	Nitrogen metabolism
+T53378	hsa04964	Proximal tubule bicarbonate reclamation
+T53381	hsa04020	Calcium signaling pathway
+T53381	hsa04022	cGMP-PKG signaling pathway
+T53381	hsa04080	Neuroactive ligand-receptor interaction
+T53381	hsa04261	Adrenergic signaling in cardiomyocytes
+T53381	hsa04270	Vascular smooth muscle contraction
+T53381	hsa04970	Salivary secretion
+T53524	hsa04010	MAPK signaling pathway
+T53524	hsa04014	Ras signaling pathway
+T53524	hsa04015	Rap1 signaling pathway
+T53524	hsa04020	Calcium signaling pathway
+T53524	hsa04060	Cytokine-cytokine receptor interaction
+T53524	hsa04144	Endocytosis
+T53524	hsa04151	PI3K-Akt signaling pathway
+T53524	hsa04510	Focal adhesion
+T53524	hsa04540	Gap junction
+T53524	hsa04810	Regulation of actin cytoskeleton
+T53524	hsa05166	HTLV-I infection
+T53524	hsa05200	Pathways in cancer
+T53524	hsa05206	MicroRNAs in cancer
+T53524	hsa05214	Glioma
+T53524	hsa05215	Prostate cancer
+T53524	hsa05218	Melanoma
+T53524	hsa05230	Central carbon metabolism in cancer
+T53524	hsa05231	Choline metabolism in cancer
+T53585	hsa00900	Terpenoid backbone biosynthesis
+T53585	hsa01100	Metabolic pathways
+T53585	hsa01130	Biosynthesis of antibiotics
+T53585	hsa04152	AMPK signaling pathway
+T53585	hsa04976	Bile secretion
+T54132	hsa04725	Cholinergic synapse
+T54644	hsa04010	MAPK signaling pathway
+T54644	hsa04020	Calcium signaling pathway
+T54644	hsa04713	Circadian entrainment
+T55094	hsa04750	Inflammatory mediator regulation of TRP channels
+T55285	hsa04080	Neuroactive ligand-receptor interaction
+T55654	hsa02010	ABC transporters
+T55654	hsa04024	cAMP signaling pathway
+T55654	hsa04152	AMPK signaling pathway
+T55654	hsa04971	Gastric acid secretion
+T55654	hsa04972	Pancreatic secretion
+T55654	hsa04976	Bile secretion
+T55654	hsa05110	Vibrio cholerae infection
+T55815	hsa04080	Neuroactive ligand-receptor interaction
+T55959	hsa04728	Dopaminergic synapse
+T55959	hsa05012	Parkinson's disease
+T55959	hsa05030	Cocaine addiction
+T55959	hsa05031	Amphetamine addiction
+T55959	hsa05034	Alcoholism
+T56418	hsa05223	Non-small cell lung cancer
+T56923	hsa04060	Cytokine-cytokine receptor interaction
+T56923	hsa04062	Chemokine signaling pathway
+T56923	hsa04144	Endocytosis
+T56923	hsa05120	Epithelial cell signaling in Helicobacter pylori infection
+T57011	hsa04064	NF-kappa B signaling pathway
+T57011	hsa04514	Cell adhesion molecules (CAMs)
+T57011	hsa04650	Natural killer cell mediated cytotoxicity
+T57011	hsa04668	TNF signaling pathway
+T57011	hsa04670	Leukocyte transendothelial migration
+T57011	hsa05143	African trypanosomiasis
+T57011	hsa05144	Malaria
+T57011	hsa05150	Staphylococcus aureus infection
+T57011	hsa05164	Influenza A
+T57011	hsa05166	HTLV-I infection
+T57011	hsa05169	Epstein-Barr virus infection
+T57011	hsa05323	Rheumatoid arthritis
+T57011	hsa05416	Viral myocarditis
+T57392	hsa00980	Metabolism of xenobiotics by cytochrome P450
+T57392	hsa00982	Drug metabolism - cytochrome P450
+T57392	hsa04726	Serotonergic synapse
+T57700	hsa04014	Ras signaling pathway
+T57700	hsa04015	Rap1 signaling pathway
+T57700	hsa04060	Cytokine-cytokine receptor interaction
+T57700	hsa04144	Endocytosis
+T57700	hsa04151	PI3K-Akt signaling pathway
+T57700	hsa04640	Hematopoietic cell lineage
+T57700	hsa04916	Melanogenesis
+T57700	hsa05200	Pathways in cancer
+T57700	hsa05221	Acute myeloid leukemia
+T57700	hsa05230	Central carbon metabolism in cancer
+T58238	hsa04514	Cell adhesion molecules (CAMs)
+T58238	hsa04620	Toll-like receptor signaling pathway
+T58238	hsa04672	Intestinal immune network for IgA production
+T58238	hsa04940	Type I diabetes mellitus
+T58238	hsa05320	Autoimmune thyroid disease
+T58238	hsa05322	Systemic lupus erythematosus
+T58238	hsa05323	Rheumatoid arthritis
+T58238	hsa05330	Allograft rejection
+T58238	hsa05332	Graft-versus-host disease
+T58238	hsa05416	Viral myocarditis
+T58454	hsa04010	MAPK signaling pathway
+T58454	hsa04014	Ras signaling pathway
+T58454	hsa04015	Rap1 signaling pathway
+T58454	hsa04144	Endocytosis
+T58454	hsa04151	PI3K-Akt signaling pathway
+T58454	hsa04550	Signaling pathways regulating pluripotency of stem cells
+T58454	hsa04810	Regulation of actin cytoskeleton
+T58454	hsa05200	Pathways in cancer
+T58454	hsa05215	Prostate cancer
+T58454	hsa05230	Central carbon metabolism in cancer
+T58921	hsa03320	PPAR signaling pathway
+T58921	hsa04152	AMPK signaling pathway
+T58921	hsa04380	Osteoclast differentiation
+T58921	hsa05016	Huntington's disease
+T58921	hsa05200	Pathways in cancer
+T58921	hsa05202	Transcriptional misregulation in cancer
+T58921	hsa05216	Thyroid cancer
+T58992	hsa04022	cGMP-PKG signaling pathway
+T58992	hsa04071	Sphingolipid signaling pathway
+T58992	hsa04080	Neuroactive ligand-receptor interaction
+T59045	hsa00250	Alanine, aspartate and glutamate metabolism
+T59045	hsa00280	Valine, leucine and isoleucine degradation
+T59045	hsa00410	beta-Alanine metabolism
+T59045	hsa00640	Propanoate metabolism
+T59045	hsa00650	Butanoate metabolism
+T59045	hsa01100	Metabolic pathways
+T59045	hsa04727	GABAergic synapse
+T59102	hsa04010	MAPK signaling pathway
+T59102	hsa04014	Ras signaling pathway
+T59102	hsa04015	Rap1 signaling pathway
+T59102	hsa04020	Calcium signaling pathway
+T59102	hsa04060	Cytokine-cytokine receptor interaction
+T59102	hsa04151	PI3K-Akt signaling pathway
+T59102	hsa04510	Focal adhesion
+T59102	hsa04540	Gap junction
+T59102	hsa04810	Regulation of actin cytoskeleton
+T59102	hsa05166	HTLV-I infection
+T59102	hsa05200	Pathways in cancer
+T59102	hsa05206	MicroRNAs in cancer
+T59102	hsa05214	Glioma
+T59102	hsa05215	Prostate cancer
+T59102	hsa05218	Melanoma
+T59102	hsa05230	Central carbon metabolism in cancer
+T59102	hsa05231	Choline metabolism in cancer
+T59328	hsa04010	MAPK signaling pathway
+T59328	hsa04012	ErbB signaling pathway
+T59328	hsa04014	Ras signaling pathway
+T59328	hsa04015	Rap1 signaling pathway
+T59328	hsa04020	Calcium signaling pathway
+T59328	hsa04060	Cytokine-cytokine receptor interaction
+T59328	hsa04066	HIF-1 signaling pathway
+T59328	hsa04068	FoxO signaling pathway
+T59328	hsa04144	Endocytosis
+T59328	hsa04151	PI3K-Akt signaling pathway
+T59328	hsa04320	Dorso-ventral axis formation
+T59328	hsa04510	Focal adhesion
+T59328	hsa04520	Adherens junction
+T59328	hsa04540	Gap junction
+T59328	hsa04810	Regulation of actin cytoskeleton
+T59328	hsa04912	GnRH signaling pathway
+T59328	hsa04915	Estrogen signaling pathway
+T59328	hsa04921	Oxytocin signaling pathway
+T59328	hsa05120	Epithelial cell signaling in Helicobacter pylori infection
+T59328	hsa05160	Hepatitis C
+T59328	hsa05200	Pathways in cancer
+T59328	hsa05205	Proteoglycans in cancer
+T59328	hsa05206	MicroRNAs in cancer
+T59328	hsa05212	Pancreatic cancer
+T59328	hsa05213	Endometrial cancer
+T59328	hsa05214	Glioma
+T59328	hsa05215	Prostate cancer
+T59328	hsa05218	Melanoma
+T59328	hsa05219	Bladder cancer
+T59328	hsa05223	Non-small cell lung cancer
+T59328	hsa05230	Central carbon metabolism in cancer
+T59328	hsa05231	Choline metabolism in cancer
+T59604	hsa04024	cAMP signaling pathway
+T59604	hsa04080	Neuroactive ligand-receptor interaction
+T59631	hsa04514	Cell adhesion molecules (CAMs)
+T59631	hsa04660	T cell receptor signaling pathway
+T59679	hsa04020	Calcium signaling pathway
+T59679	hsa04024	cAMP signaling pathway
+T59679	hsa04080	Neuroactive ligand-receptor interaction
+T59679	hsa04726	Serotonergic synapse
+T59881	hsa04020	Calcium signaling pathway
+T59881	hsa04080	Neuroactive ligand-receptor interaction
+T59881	hsa04270	Vascular smooth muscle contraction
+T60182	hsa04080	Neuroactive ligand-receptor interaction
+T60182	hsa04922	Glucagon signaling pathway
+T60433	hsa04640	Hematopoietic cell lineage
+T60529	hsa00590	Arachidonic acid metabolism
+T60529	hsa01100	Metabolic pathways
+T60529	hsa04611	Platelet activation
+T60529	hsa04726	Serotonergic synapse
+T60606	hsa04024	cAMP signaling pathway
+T60606	hsa04080	Neuroactive ligand-receptor interaction
+T60606	hsa04918	Thyroid hormone synthesis
+T60606	hsa05320	Autoimmune thyroid disease
+T60631	hsa04144	Endocytosis
+T60631	hsa05200	Pathways in cancer
+T60631	hsa05216	Thyroid cancer
+T60631	hsa05230	Central carbon metabolism in cancer
+T60693	hsa04080	Neuroactive ligand-receptor interaction
+T60857	hsa00140	Steroid hormone biosynthesis
+T60857	hsa00590	Arachidonic acid metabolism
+T60857	hsa01100	Metabolic pathways
+T60857	hsa04913	Ovarian steroidogenesis
+T61400	hsa00240	Pyrimidine metabolism
+T61400	hsa01100	Metabolic pathways
+T61622	hsa04614	Renin-angiotensin system
+T61698	hsa04060	Cytokine-cytokine receptor interaction
+T61698	hsa04151	PI3K-Akt signaling pathway
+T61698	hsa04630	Jak-STAT signaling pathway
+T61698	hsa04660	T cell receptor signaling pathway
+T61698	hsa04672	Intestinal immune network for IgA production
+T61698	hsa04940	Type I diabetes mellitus
+T61698	hsa05142	Chagas disease (American trypanosomiasis)
+T61698	hsa05162	Measles
+T61698	hsa05166	HTLV-I infection
+T61698	hsa05320	Autoimmune thyroid disease
+T61698	hsa05321	Inflammatory bowel disease (IBD)
+T61698	hsa05330	Allograft rejection
+T61698	hsa05332	Graft-versus-host disease
+T61744	hsa00230	Purine metabolism
+T61744	hsa04024	cAMP signaling pathway
+T61744	hsa05032	Morphine addiction
+T62184	hsa04727	GABAergic synapse
+T62193	hsa00340	Histidine metabolism
+T62193	hsa00350	Tyrosine metabolism
+T62193	hsa00360	Phenylalanine metabolism
+T62193	hsa00380	Tryptophan metabolism
+T62193	hsa01100	Metabolic pathways
+T62193	hsa04726	Serotonergic synapse
+T62193	hsa04728	Dopaminergic synapse
+T62193	hsa05030	Cocaine addiction
+T62193	hsa05031	Amphetamine addiction
+T62193	hsa05034	Alcoholism
+T62390	hsa00350	Tyrosine metabolism
+T62390	hsa01100	Metabolic pathways
+T62390	hsa04728	Dopaminergic synapse
+T62390	hsa04917	Prolactin signaling pathway
+T62390	hsa05012	Parkinson's disease
+T62390	hsa05030	Cocaine addiction
+T62390	hsa05031	Amphetamine addiction
+T62390	hsa05034	Alcoholism
+T63505	hsa04012	ErbB signaling pathway
+T63505	hsa04014	Ras signaling pathway
+T63505	hsa04110	Cell cycle
+T63505	hsa04360	Axon guidance
+T63505	hsa04722	Neurotrophin signaling pathway
+T63505	hsa05130	Pathogenic Escherichia coli infection
+T63505	hsa05131	Shigellosis
+T63505	hsa05200	Pathways in cancer
+T63505	hsa05206	MicroRNAs in cancer
+T63505	hsa05220	Chronic myeloid leukemia
+T63505	hsa05416	Viral myocarditis
+T63609	hsa00230	Purine metabolism
+T63609	hsa04015	Rap1 signaling pathway
+T63609	hsa04020	Calcium signaling pathway
+T63609	hsa04022	cGMP-PKG signaling pathway
+T63609	hsa04024	cAMP signaling pathway
+T63609	hsa04062	Chemokine signaling pathway
+T63609	hsa04114	Oocyte meiosis
+T63609	hsa04261	Adrenergic signaling in cardiomyocytes
+T63609	hsa04270	Vascular smooth muscle contraction
+T63609	hsa04540	Gap junction
+T63609	hsa04611	Platelet activation
+T63609	hsa04713	Circadian entrainment
+T63609	hsa04720	Long-term potentiation
+T63609	hsa04723	Retrograde endocannabinoid signaling
+T63609	hsa04724	Glutamatergic synapse
+T63609	hsa04725	Cholinergic synapse
+T63609	hsa04727	GABAergic synapse
+T63609	hsa04750	Inflammatory mediator regulation of TRP channels
+T63609	hsa04911	Insulin secretion
+T63609	hsa04912	GnRH signaling pathway
+T63609	hsa04913	Ovarian steroidogenesis
+T63609	hsa04914	Progesterone-mediated oocyte maturation
+T63609	hsa04915	Estrogen signaling pathway
+T63609	hsa04916	Melanogenesis
+T63609	hsa04918	Thyroid hormone synthesis
+T63609	hsa04921	Oxytocin signaling pathway
+T63609	hsa04923	Regulation of lipolysis in adipocytes
+T63609	hsa04970	Salivary secretion
+T63609	hsa04971	Gastric acid secretion
+T63609	hsa04972	Pancreatic secretion
+T63609	hsa04976	Bile secretion
+T63609	hsa05032	Morphine addiction
+T63609	hsa05142	Chagas disease (American trypanosomiasis)
+T63609	hsa05146	Amoebiasis
+T63609	hsa05166	HTLV-I infection
+T63609	hsa05200	Pathways in cancer
+T63609	hsa05414	Dilated cardiomyopathy
+T63934	hsa04060	Cytokine-cytokine receptor interaction
+T63934	hsa04140	Regulation of autophagy
+T63934	hsa04151	PI3K-Akt signaling pathway
+T63934	hsa04620	Toll-like receptor signaling pathway
+T63934	hsa04622	RIG-I-like receptor signaling pathway
+T63934	hsa04623	Cytosolic DNA-sensing pathway
+T63934	hsa04630	Jak-STAT signaling pathway
+T63934	hsa04650	Natural killer cell mediated cytotoxicity
+T63934	hsa05152	Tuberculosis
+T63934	hsa05160	Hepatitis C
+T63934	hsa05161	Hepatitis B
+T63934	hsa05162	Measles
+T63934	hsa05164	Influenza A
+T63934	hsa05168	Herpes simplex infection
+T63934	hsa05320	Autoimmune thyroid disease
+T64591	hsa04726	Serotonergic synapse
+T64795	hsa04010	MAPK signaling pathway
+T64795	hsa04020	Calcium signaling pathway
+T64795	hsa04713	Circadian entrainment
+T64795	hsa04930	Type II diabetes mellitus
+T64830	hsa04024	cAMP signaling pathway
+T64830	hsa04080	Neuroactive ligand-receptor interaction
+T65197	hsa04060	Cytokine-cytokine receptor interaction
+T65197	hsa04151	PI3K-Akt signaling pathway
+T65197	hsa04630	Jak-STAT signaling pathway
+T65197	hsa04640	Hematopoietic cell lineage
+T66237	hsa04080	Neuroactive ligand-receptor interaction
+T66237	hsa04962	Vasopressin-regulated water reabsorption
+T66350	hsa05162	Measles
+T66505	hsa04340	Hedgehog signaling pathway
+T66505	hsa05200	Pathways in cancer
+T66505	hsa05205	Proteoglycans in cancer
+T66505	hsa05217	Basal cell carcinoma
+T67162	hsa04015	Rap1 signaling pathway
+T67162	hsa04024	cAMP signaling pathway
+T67162	hsa04080	Neuroactive ligand-receptor interaction
+T67162	hsa04540	Gap junction
+T67162	hsa04728	Dopaminergic synapse
+T67162	hsa05012	Parkinson's disease
+T67162	hsa05030	Cocaine addiction
+T67162	hsa05034	Alcoholism
+T67684	hsa04020	Calcium signaling pathway
+T67684	hsa04080	Neuroactive ligand-receptor interaction
+T67684	hsa04725	Cholinergic synapse
+T67684	hsa04810	Regulation of actin cytoskeleton
+T67684	hsa04911	Insulin secretion
+T67684	hsa04970	Salivary secretion
+T67684	hsa04971	Gastric acid secretion
+T67684	hsa04972	Pancreatic secretion
+T67710	hsa04080	Neuroactive ligand-receptor interaction
+T67710	hsa04961	Endocrine and other factor-regulated calcium reabsorption
+T67849	hsa00562	Inositol phosphate metabolism
+T67849	hsa04012	ErbB signaling pathway
+T67849	hsa04014	Ras signaling pathway
+T67849	hsa04015	Rap1 signaling pathway
+T67849	hsa04022	cGMP-PKG signaling pathway
+T67849	hsa04024	cAMP signaling pathway
+T67849	hsa04062	Chemokine signaling pathway
+T67849	hsa04066	HIF-1 signaling pathway
+T67849	hsa04068	FoxO signaling pathway
+T67849	hsa04070	Phosphatidylinositol signaling system
+T67849	hsa04071	Sphingolipid signaling pathway
+T67849	hsa04150	mTOR signaling pathway
+T67849	hsa04151	PI3K-Akt signaling pathway
+T67849	hsa04152	AMPK signaling pathway
+T67849	hsa04210	Apoptosis
+T67849	hsa04261	Adrenergic signaling in cardiomyocytes
+T67849	hsa04370	VEGF signaling pathway
+T67849	hsa04380	Osteoclast differentiation
+T67849	hsa04510	Focal adhesion
+T67849	hsa04550	Signaling pathways regulating pluripotency of stem cells
+T67849	hsa04611	Platelet activation
+T67849	hsa04620	Toll-like receptor signaling pathway
+T67849	hsa04630	Jak-STAT signaling pathway
+T67849	hsa04650	Natural killer cell mediated cytotoxicity
+T67849	hsa04660	T cell receptor signaling pathway
+T67849	hsa04662	B cell receptor signaling pathway
+T67849	hsa04664	Fc epsilon RI signaling pathway
+T67849	hsa04666	Fc gamma R-mediated phagocytosis
+T67849	hsa04668	TNF signaling pathway
+T67849	hsa04670	Leukocyte transendothelial migration
+T67849	hsa04722	Neurotrophin signaling pathway
+T67849	hsa04725	Cholinergic synapse
+T67849	hsa04750	Inflammatory mediator regulation of TRP channels
+T67849	hsa04810	Regulation of actin cytoskeleton
+T67849	hsa04910	Insulin signaling pathway
+T67849	hsa04914	Progesterone-mediated oocyte maturation
+T67849	hsa04915	Estrogen signaling pathway
+T67849	hsa04917	Prolactin signaling pathway
+T67849	hsa04919	Thyroid hormone signaling pathway
+T67849	hsa04921	Oxytocin signaling pathway
+T67849	hsa04923	Regulation of lipolysis in adipocytes
+T67849	hsa04930	Type II diabetes mellitus
+T67849	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T67849	hsa04960	Aldosterone-regulated sodium reabsorption
+T67849	hsa04973	Carbohydrate digestion and absorption
+T67849	hsa05100	Bacterial invasion of epithelial cells
+T67849	hsa05142	Chagas disease (American trypanosomiasis)
+T67849	hsa05145	Toxoplasmosis
+T67849	hsa05146	Amoebiasis
+T67849	hsa05160	Hepatitis C
+T67849	hsa05161	Hepatitis B
+T67849	hsa05162	Measles
+T67849	hsa05164	Influenza A
+T67849	hsa05166	HTLV-I infection
+T67849	hsa05169	Epstein-Barr virus infection
+T67849	hsa05200	Pathways in cancer
+T67849	hsa05203	Viral carcinogenesis
+T67849	hsa05205	Proteoglycans in cancer
+T67849	hsa05210	Colorectal cancer
+T67849	hsa05211	Renal cell carcinoma
+T67849	hsa05212	Pancreatic cancer
+T67849	hsa05213	Endometrial cancer
+T67849	hsa05214	Glioma
+T67849	hsa05215	Prostate cancer
+T67849	hsa05218	Melanoma
+T67849	hsa05220	Chronic myeloid leukemia
+T67849	hsa05221	Acute myeloid leukemia
+T67849	hsa05222	Small cell lung cancer
+T67849	hsa05223	Non-small cell lung cancer
+T67849	hsa05230	Central carbon metabolism in cancer
+T67849	hsa05231	Choline metabolism in cancer
+T68251	hsa04670	Leukocyte transendothelial migration
+T68251	hsa04912	GnRH signaling pathway
+T68251	hsa04915	Estrogen signaling pathway
+T68251	hsa05200	Pathways in cancer
+T68251	hsa05205	Proteoglycans in cancer
+T68251	hsa05219	Bladder cancer
+T68334	hsa04024	cAMP signaling pathway
+T68334	hsa04080	Neuroactive ligand-receptor interaction
+T68334	hsa04913	Ovarian steroidogenesis
+T68461	hsa04020	Calcium signaling pathway
+T68461	hsa04022	cGMP-PKG signaling pathway
+T68461	hsa05012	Parkinson's disease
+T68461	hsa05016	Huntington's disease
+T68461	hsa05166	HTLV-I infection
+T68536	hsa04145	Phagosome
+T68536	hsa04540	Gap junction
+T68536	hsa05130	Pathogenic Escherichia coli infection
+T68547	hsa04110	Cell cycle
+T68547	hsa04330	Notch signaling pathway
+T68547	hsa04919	Thyroid hormone signaling pathway
+T68547	hsa05016	Huntington's disease
+T68547	hsa05031	Amphetamine addiction
+T68547	hsa05034	Alcoholism
+T68547	hsa05169	Epstein-Barr virus infection
+T68547	hsa05200	Pathways in cancer
+T68547	hsa05202	Transcriptional misregulation in cancer
+T68547	hsa05203	Viral carcinogenesis
+T68547	hsa05206	MicroRNAs in cancer
+T68547	hsa05220	Chronic myeloid leukemia
+T69485	hsa04080	Neuroactive ligand-receptor interaction
+T69619	hsa00260	Glycine, serine and threonine metabolism
+T69619	hsa00350	Tyrosine metabolism
+T69619	hsa00360	Phenylalanine metabolism
+T69619	hsa00410	beta-Alanine metabolism
+T69619	hsa01100	Metabolic pathways
+T70449	hsa04080	Neuroactive ligand-receptor interaction
+T70792	hsa00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+T70792	hsa01100	Metabolic pathways
+T70967	hsa04080	Neuroactive ligand-receptor interaction
+T70967	hsa04725	Cholinergic synapse
+T70967	hsa05033	Nicotine addiction
+T71023	hsa04721	Synaptic vesicle cycle
+T71023	hsa04911	Insulin secretion
+T71192	hsa04020	Calcium signaling pathway
+T71192	hsa04080	Neuroactive ligand-receptor interaction
+T72168	hsa04960	Aldosterone-regulated sodium reabsorption
+T72515	hsa04010	MAPK signaling pathway
+T72515	hsa04060	Cytokine-cytokine receptor interaction
+T72515	hsa04064	NF-kappa B signaling pathway
+T72515	hsa04210	Apoptosis
+T72515	hsa04380	Osteoclast differentiation
+T72515	hsa04640	Hematopoietic cell lineage
+T72515	hsa04750	Inflammatory mediator regulation of TRP channels
+T72515	hsa05146	Amoebiasis
+T72515	hsa05166	HTLV-I infection
+T73097	hsa04060	Cytokine-cytokine receptor interaction
+T73097	hsa04630	Jak-STAT signaling pathway
+T73097	hsa04640	Hematopoietic cell lineage
+T73097	hsa05200	Pathways in cancer
+T73189	sce00500	Starch and sucrose metabolism
+T73189	sce04011	MAPK signaling pathway - yeast
+T73215	hsa04640	Hematopoietic cell lineage
+T73475	hsa04310	Wnt signaling pathway
+T73476	hsa04610	Complement and coagulation cascades
+T73495	hsa04080	Neuroactive ligand-receptor interaction
+T73495	hsa04724	Glutamatergic synapse
+T73676	hsa04512	ECM-receptor interaction
+T74002	hsa04060	Cytokine-cytokine receptor interaction
+T74002	hsa04630	Jak-STAT signaling pathway
+T74002	hsa04640	Hematopoietic cell lineage
+T74002	hsa04650	Natural killer cell mediated cytotoxicity
+T74002	hsa04660	T cell receptor signaling pathway
+T74002	hsa04664	Fc epsilon RI signaling pathway
+T74002	hsa04668	TNF signaling pathway
+T74002	hsa05132	Salmonella infection
+T74002	hsa05146	Amoebiasis
+T74002	hsa05166	HTLV-I infection
+T74002	hsa05202	Transcriptional misregulation in cancer
+T74002	hsa05323	Rheumatoid arthritis
+T74312	hsa04060	Cytokine-cytokine receptor interaction
+T74312	hsa04640	Hematopoietic cell lineage
+T74312	hsa05200	Pathways in cancer
+T74312	hsa05202	Transcriptional misregulation in cancer
+T74312	hsa05221	Acute myeloid leukemia
+T74312	hsa05230	Central carbon metabolism in cancer
+T74456	hsa04020	Calcium signaling pathway
+T74456	hsa04022	cGMP-PKG signaling pathway
+T74456	hsa04080	Neuroactive ligand-receptor interaction
+T74456	hsa04261	Adrenergic signaling in cardiomyocytes
+T74456	hsa04270	Vascular smooth muscle contraction
+T74456	hsa04614	Renin-angiotensin system
+T74456	hsa04924	Renin secretion
+T74456	hsa05200	Pathways in cancer
+T75243	hsa04012	ErbB signaling pathway
+T75243	hsa04066	HIF-1 signaling pathway
+T75243	hsa04150	mTOR signaling pathway
+T75243	hsa04151	PI3K-Akt signaling pathway
+T75243	hsa04152	AMPK signaling pathway
+T75243	hsa04910	Insulin signaling pathway
+T75243	hsa04919	Thyroid hormone signaling pathway
+T75243	hsa04920	Adipocytokine signaling pathway
+T75243	hsa04930	Type II diabetes mellitus
+T75243	hsa05200	Pathways in cancer
+T75243	hsa05205	Proteoglycans in cancer
+T75243	hsa05206	MicroRNAs in cancer
+T75243	hsa05214	Glioma
+T75243	hsa05215	Prostate cancer
+T75243	hsa05221	Acute myeloid leukemia
+T75243	hsa05230	Central carbon metabolism in cancer
+T75243	hsa05231	Choline metabolism in cancer
+T75440	hsa04080	Neuroactive ligand-receptor interaction
+T75440	hsa05166	HTLV-I infection
+T75797	hsa04020	Calcium signaling pathway
+T75797	hsa04080	Neuroactive ligand-receptor interaction
+T75888	hsa00071	Fatty acid degradation
+T75888	hsa01212	Fatty acid metabolism
+T75888	hsa03320	PPAR signaling pathway
+T75888	hsa04152	AMPK signaling pathway
+T75888	hsa04920	Adipocytokine signaling pathway
+T75888	hsa04922	Glucagon signaling pathway
+T75984	hsa04020	Calcium signaling pathway
+T75984	hsa04080	Neuroactive ligand-receptor interaction
+T75984	hsa04540	Gap junction
+T75984	hsa04726	Serotonergic synapse
+T75984	hsa04750	Inflammatory mediator regulation of TRP channels
+T76024	hsa04610	Complement and coagulation cascades
+T76024	hsa05133	Pertussis
+T76024	hsa05150	Staphylococcus aureus infection
+T76024	hsa05322	Systemic lupus erythematosus
+T76198	hsa04020	Calcium signaling pathway
+T76198	hsa04080	Neuroactive ligand-receptor interaction
+T76198	hsa04611	Platelet activation
+T76213	hsa00360	Phenylalanine metabolism
+T76213	hsa00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+T76213	hsa01100	Metabolic pathways
+T76213	hsa01230	Biosynthesis of amino acids
+T76685	hsa04015	Rap1 signaling pathway
+T76685	hsa04080	Neuroactive ligand-receptor interaction
+T76685	hsa04723	Retrograde endocannabinoid signaling
+T76904	hsa00140	Steroid hormone biosynthesis
+T76904	hsa00350	Tyrosine metabolism
+T76904	hsa01100	Metabolic pathways
+T76904	hsa04728	Dopaminergic synapse
+T77195	hsa00190	Oxidative phosphorylation
+T77195	hsa01100	Metabolic pathways
+T77195	hsa05012	Parkinson's disease
+T77365	hsa04015	Rap1 signaling pathway
+T77365	hsa04020	Calcium signaling pathway
+T77365	hsa04024	cAMP signaling pathway
+T77365	hsa04080	Neuroactive ligand-receptor interaction
+T77365	hsa04270	Vascular smooth muscle contraction
+T77365	hsa05012	Parkinson's disease
+T77365	hsa05034	Alcoholism
+T77796	hsa04020	Calcium signaling pathway
+T77796	hsa04080	Neuroactive ligand-receptor interaction
+T77913	hsa04020	Calcium signaling pathway
+T77913	hsa04080	Neuroactive ligand-receptor interaction
+T77913	hsa04750	Inflammatory mediator regulation of TRP channels
+T78464	hsa00590	Arachidonic acid metabolism
+T78464	hsa01100	Metabolic pathways
+T78464	hsa04064	NF-kappa B signaling pathway
+T78464	hsa04370	VEGF signaling pathway
+T78464	hsa04668	TNF signaling pathway
+T78464	hsa04723	Retrograde endocannabinoid signaling
+T78464	hsa04726	Serotonergic synapse
+T78464	hsa04913	Ovarian steroidogenesis
+T78464	hsa04921	Oxytocin signaling pathway
+T78464	hsa04923	Regulation of lipolysis in adipocytes
+T78464	hsa05140	Leishmaniasis
+T78464	hsa05200	Pathways in cancer
+T78464	hsa05204	Chemical carcinogenesis
+T78464	hsa05206	MicroRNAs in cancer
+T78464	hsa05222	Small cell lung cancer
+T78585	hsa04060	Cytokine-cytokine receptor interaction
+T78585	hsa04630	Jak-STAT signaling pathway
+T78585	hsa04640	Hematopoietic cell lineage
+T78585	hsa04660	T cell receptor signaling pathway
+T78585	hsa04664	Fc epsilon RI signaling pathway
+T78585	hsa04672	Intestinal immune network for IgA production
+T78585	hsa05310	Asthma
+T78585	hsa05320	Autoimmune thyroid disease
+T78585	hsa05321	Inflammatory bowel disease (IBD)
+T78585	hsa05330	Allograft rejection
+T78709	hsa04024	cAMP signaling pathway
+T78709	hsa04080	Neuroactive ligand-receptor interaction
+T78709	hsa04726	Serotonergic synapse
+T79232	hsa04020	Calcium signaling pathway
+T79232	hsa04080	Neuroactive ligand-receptor interaction
+T79232	hsa04270	Vascular smooth muscle contraction
+T79473	hsa04020	Calcium signaling pathway
+T79473	hsa04080	Neuroactive ligand-receptor interaction
+T79473	hsa04913	Ovarian steroidogenesis
+T79473	hsa04917	Prolactin signaling pathway
+T79591	hsa04080	Neuroactive ligand-receptor interaction
+T79591	hsa04919	Thyroid hormone signaling pathway
+T79961	hsa04080	Neuroactive ligand-receptor interaction
+T80387	hsa04080	Neuroactive ligand-receptor interaction
+T80387	hsa04723	Retrograde endocannabinoid signaling
+T80387	hsa04726	Serotonergic synapse
+T80387	hsa04727	GABAergic synapse
+T80387	hsa05032	Morphine addiction
+T80387	hsa05033	Nicotine addiction
+T80896	hsa04915	Estrogen signaling pathway
+T80896	hsa04917	Prolactin signaling pathway
+T80975	hsa04014	Ras signaling pathway
+T80975	hsa04015	Rap1 signaling pathway
+T80975	hsa04060	Cytokine-cytokine receptor interaction
+T80975	hsa04144	Endocytosis
+T80975	hsa04151	PI3K-Akt signaling pathway
+T80975	hsa04370	VEGF signaling pathway
+T80975	hsa04510	Focal adhesion
+T80975	hsa05205	Proteoglycans in cancer
+T81900	hsa05010	Alzheimer's disease
+T82577	hsa04614	Renin-angiotensin system
+T82577	hsa05142	Chagas disease (American trypanosomiasis)
+T82577	hsa05410	Hypertrophic cardiomyopathy (HCM)
+T82739	hsa04610	Complement and coagulation cascades
+T82795	hsa04015	Rap1 signaling pathway
+T82795	hsa04310	Wnt signaling pathway
+T82795	hsa04390	Hippo signaling pathway
+T82795	hsa04510	Focal adhesion
+T82795	hsa04520	Adherens junction
+T82795	hsa04530	Tight junction
+T82795	hsa04550	Signaling pathways regulating pluripotency of stem cells
+T82795	hsa04670	Leukocyte transendothelial migration
+T82795	hsa04916	Melanogenesis
+T82795	hsa04919	Thyroid hormone signaling pathway
+T82795	hsa05100	Bacterial invasion of epithelial cells
+T82795	hsa05130	Pathogenic Escherichia coli infection
+T82795	hsa05166	HTLV-I infection
+T82795	hsa05200	Pathways in cancer
+T82795	hsa05205	Proteoglycans in cancer
+T82795	hsa05210	Colorectal cancer
+T82795	hsa05213	Endometrial cancer
+T82795	hsa05215	Prostate cancer
+T82795	hsa05216	Thyroid cancer
+T82795	hsa05217	Basal cell carcinoma
+T82795	hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+T82841	hsa04014	Ras signaling pathway
+T82841	hsa04015	Rap1 signaling pathway
+T82841	hsa04022	cGMP-PKG signaling pathway
+T82841	hsa04066	HIF-1 signaling pathway
+T82841	hsa04068	FoxO signaling pathway
+T82841	hsa04114	Oocyte meiosis
+T82841	hsa04140	Regulation of autophagy
+T82841	hsa04150	mTOR signaling pathway
+T82841	hsa04151	PI3K-Akt signaling pathway
+T82841	hsa04152	AMPK signaling pathway
+T82841	hsa04810	Regulation of actin cytoskeleton
+T82841	hsa04910	Insulin signaling pathway
+T82841	hsa04911	Insulin secretion
+T82841	hsa04913	Ovarian steroidogenesis
+T82841	hsa04914	Progesterone-mediated oocyte maturation
+T82841	hsa04917	Prolactin signaling pathway
+T82841	hsa04930	Type II diabetes mellitus
+T82841	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T82841	hsa04940	Type I diabetes mellitus
+T82841	hsa04950	Maturity onset diabetes of the young
+T82841	hsa04960	Aldosterone-regulated sodium reabsorption
+T82841	hsa05215	Prostate cancer
+T83011	hsa00260	Glycine, serine and threonine metabolism
+T83011	hsa00330	Arginine and proline metabolism
+T83011	hsa00340	Histidine metabolism
+T83011	hsa00350	Tyrosine metabolism
+T83011	hsa00360	Phenylalanine metabolism
+T83011	hsa00380	Tryptophan metabolism
+T83011	hsa00982	Drug metabolism - cytochrome P450
+T83011	hsa01100	Metabolic pathways
+T83011	hsa04726	Serotonergic synapse
+T83011	hsa04728	Dopaminergic synapse
+T83011	hsa05030	Cocaine addiction
+T83011	hsa05031	Amphetamine addiction
+T83011	hsa05034	Alcoholism
+T83145	hsa04010	MAPK signaling pathway
+T83145	hsa04064	NF-kappa B signaling pathway
+T83145	hsa04380	Osteoclast differentiation
+T83145	hsa05134	Legionellosis
+T83145	hsa05166	HTLV-I infection
+T83145	hsa05169	Epstein-Barr virus infection
+T83145	hsa05200	Pathways in cancer
+T83145	hsa05203	Viral carcinogenesis
+T83369	hsa04610	Complement and coagulation cascades
+T83386	hsa04144	Endocytosis
+T83813	hsa04020	Calcium signaling pathway
+T83813	hsa04080	Neuroactive ligand-receptor interaction
+T83813	hsa04540	Gap junction
+T83813	hsa04726	Serotonergic synapse
+T83813	hsa04750	Inflammatory mediator regulation of TRP channels
+T83875	hsa00260	Glycine, serine and threonine metabolism
+T83875	hsa00330	Arginine and proline metabolism
+T83875	hsa00340	Histidine metabolism
+T83875	hsa00350	Tyrosine metabolism
+T83875	hsa00360	Phenylalanine metabolism
+T83875	hsa00380	Tryptophan metabolism
+T83875	hsa00982	Drug metabolism - cytochrome P450
+T83875	hsa01100	Metabolic pathways
+T83875	hsa04726	Serotonergic synapse
+T83875	hsa04728	Dopaminergic synapse
+T83875	hsa05030	Cocaine addiction
+T83875	hsa05031	Amphetamine addiction
+T83875	hsa05034	Alcoholism
+T84040	hsa04750	Inflammatory mediator regulation of TRP channels
+T84173	hsa00511	Other glycan degradation
+T84173	hsa00600	Sphingolipid metabolism
+T84173	hsa01100	Metabolic pathways
+T84173	hsa04142	Lysosome
+T84316	hsa04010	MAPK signaling pathway
+T84316	hsa04260	Cardiac muscle contraction
+T84316	hsa04261	Adrenergic signaling in cardiomyocytes
+T84316	hsa04921	Oxytocin signaling pathway
+T84316	hsa05410	Hypertrophic cardiomyopathy (HCM)
+T84316	hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+T84316	hsa05414	Dilated cardiomyopathy
+T84486	hsa04020	Calcium signaling pathway
+T84486	hsa04024	cAMP signaling pathway
+T84486	hsa04080	Neuroactive ligand-receptor interaction
+T84486	hsa04921	Oxytocin signaling pathway
+T84621	hsa00140	Steroid hormone biosynthesis
+T84621	hsa01100	Metabolic pathways
+T84631	hsa04610	Complement and coagulation cascades
+T85435	hsa04014	Ras signaling pathway
+T85435	hsa04015	Rap1 signaling pathway
+T85435	hsa04022	cGMP-PKG signaling pathway
+T85435	hsa04066	HIF-1 signaling pathway
+T85435	hsa04068	FoxO signaling pathway
+T85435	hsa04151	PI3K-Akt signaling pathway
+T85435	hsa04152	AMPK signaling pathway
+T85435	hsa04520	Adherens junction
+T85435	hsa04910	Insulin signaling pathway
+T85435	hsa04913	Ovarian steroidogenesis
+T85435	hsa04930	Type II diabetes mellitus
+T85435	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T85435	hsa04960	Aldosterone-regulated sodium reabsorption
+T85529	hsa04514	Cell adhesion molecules (CAMs)
+T85529	hsa04660	T cell receptor signaling pathway
+T85529	hsa04672	Intestinal immune network for IgA production
+T85529	hsa04940	Type I diabetes mellitus
+T85529	hsa05162	Measles
+T85529	hsa05320	Autoimmune thyroid disease
+T85529	hsa05322	Systemic lupus erythematosus
+T85529	hsa05323	Rheumatoid arthritis
+T85529	hsa05330	Allograft rejection
+T85529	hsa05332	Graft-versus-host disease
+T85529	hsa05416	Viral myocarditis
+T85799	hsa04110	Cell cycle
+T85799	hsa04115	p53 signaling pathway
+T85799	hsa04151	PI3K-Akt signaling pathway
+T85799	hsa04530	Tight junction
+T85799	hsa04660	T cell receptor signaling pathway
+T85799	hsa05161	Hepatitis B
+T85799	hsa05162	Measles
+T85799	hsa05166	HTLV-I infection
+T85799	hsa05200	Pathways in cancer
+T85799	hsa05203	Viral carcinogenesis
+T85799	hsa05212	Pancreatic cancer
+T85799	hsa05214	Glioma
+T85799	hsa05218	Melanoma
+T85799	hsa05219	Bladder cancer
+T85799	hsa05220	Chronic myeloid leukemia
+T85799	hsa05222	Small cell lung cancer
+T85799	hsa05223	Non-small cell lung cancer
+T85943	hsa04012	ErbB signaling pathway
+T85943	hsa04015	Rap1 signaling pathway
+T85943	hsa04062	Chemokine signaling pathway
+T85943	hsa04144	Endocytosis
+T85943	hsa04370	VEGF signaling pathway
+T85943	hsa04510	Focal adhesion
+T85943	hsa04520	Adherens junction
+T85943	hsa04530	Tight junction
+T85943	hsa04540	Gap junction
+T85943	hsa04611	Platelet activation
+T85943	hsa04727	GABAergic synapse
+T85943	hsa04750	Inflammatory mediator regulation of TRP channels
+T85943	hsa04810	Regulation of actin cytoskeleton
+T85943	hsa04912	GnRH signaling pathway
+T85943	hsa04915	Estrogen signaling pathway
+T85943	hsa04917	Prolactin signaling pathway
+T85943	hsa04919	Thyroid hormone signaling pathway
+T85943	hsa04921	Oxytocin signaling pathway
+T85943	hsa05100	Bacterial invasion of epithelial cells
+T85943	hsa05120	Epithelial cell signaling in Helicobacter pylori infection
+T85943	hsa05131	Shigellosis
+T85943	hsa05152	Tuberculosis
+T85943	hsa05161	Hepatitis B
+T85943	hsa05203	Viral carcinogenesis
+T85943	hsa05205	Proteoglycans in cancer
+T86591	hsa03320	PPAR signaling pathway
+T86591	hsa04024	cAMP signaling pathway
+T86591	hsa04920	Adipocytokine signaling pathway
+T86591	hsa04922	Glucagon signaling pathway
+T86591	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T86591	hsa05160	Hepatitis C
+T86679	hsa04015	Rap1 signaling pathway
+T86679	hsa04020	Calcium signaling pathway
+T86679	hsa04080	Neuroactive ligand-receptor interaction
+T86679	hsa04270	Vascular smooth muscle contraction
+T86679	hsa05034	Alcoholism
+T87023	hsa04020	Calcium signaling pathway
+T87023	hsa04080	Neuroactive ligand-receptor interaction
+T87023	hsa05150	Staphylococcus aureus infection
+T87024	hsa04330	Notch signaling pathway
+T87024	hsa05010	Alzheimer's disease
+T87075	hsa04640	Hematopoietic cell lineage
+T87075	hsa04660	T cell receptor signaling pathway
+T87075	hsa05142	Chagas disease (American trypanosomiasis)
+T87075	hsa05162	Measles
+T87075	hsa05166	HTLV-I infection
+T87075	hsa05340	Primary immunodeficiency
+T88023	hsa04060	Cytokine-cytokine receptor interaction
+T88182	hsa00130	Ubiquinone and other terpenoid-quinone biosynthesis
+T88975	hsa00230	Purine metabolism
+T88975	hsa04022	cGMP-PKG signaling pathway
+T88975	hsa04024	cAMP signaling pathway
+T88975	hsa05032	Morphine addiction
+T89034	hsa04080	Neuroactive ligand-receptor interaction
+T89034	hsa04610	Complement and coagulation cascades
+T89034	hsa05150	Staphylococcus aureus infection
+T89034	hsa05164	Influenza A
+T89041	hsa00140	Steroid hormone biosynthesis
+T89041	hsa01100	Metabolic pathways
+T89041	hsa04913	Ovarian steroidogenesis
+T89041	hsa04917	Prolactin signaling pathway
+T89360	hsa00230	Purine metabolism
+T89360	hsa00983	Drug metabolism - other enzymes
+T89360	hsa01100	Metabolic pathways
+T89361	hsa04110	Cell cycle
+T89361	hsa04115	p53 signaling pathway
+T89361	hsa04151	PI3K-Akt signaling pathway
+T89361	hsa05161	Hepatitis B
+T89361	hsa05162	Measles
+T89361	hsa05200	Pathways in cancer
+T89361	hsa05203	Viral carcinogenesis
+T89361	hsa05206	MicroRNAs in cancer
+T89361	hsa05212	Pancreatic cancer
+T89361	hsa05214	Glioma
+T89361	hsa05218	Melanoma
+T89361	hsa05220	Chronic myeloid leukemia
+T89361	hsa05222	Small cell lung cancer
+T89361	hsa05223	Non-small cell lung cancer
+T89529	hsa04520	Adherens junction
+T89529	hsa04910	Insulin signaling pathway
+T89534	hsa04915	Estrogen signaling pathway
+T89534	hsa04917	Prolactin signaling pathway
+T89534	hsa04919	Thyroid hormone signaling pathway
+T89534	hsa04961	Endocrine and other factor-regulated calcium reabsorption
+T89534	hsa05205	Proteoglycans in cancer
+T89697	hsa00380	Tryptophan metabolism
+T89697	hsa01100	Metabolic pathways
+T89697	hsa05143	African trypanosomiasis
+T91480	hsa02010	ABC transporters
+T91480	hsa04911	Insulin secretion
+T91480	hsa04930	Type II diabetes mellitus
+T92072	hsa04022	cGMP-PKG signaling pathway
+T92072	hsa04024	cAMP signaling pathway
+T92072	hsa04071	Sphingolipid signaling pathway
+T92072	hsa04080	Neuroactive ligand-receptor interaction
+T92072	hsa05032	Morphine addiction
+T92609	hsa04020	Calcium signaling pathway
+T92609	hsa04022	cGMP-PKG signaling pathway
+T92609	hsa04080	Neuroactive ligand-receptor interaction
+T92609	hsa04152	AMPK signaling pathway
+T92609	hsa04261	Adrenergic signaling in cardiomyocytes
+T92609	hsa04270	Vascular smooth muscle contraction
+T92609	hsa04970	Salivary secretion
+T92777	hsa00052	Galactose metabolism
+T92777	hsa00500	Starch and sucrose metabolism
+T92777	hsa01100	Metabolic pathways
+T92777	hsa04973	Carbohydrate digestion and absorption
+T92828	hsa04020	Calcium signaling pathway
+T92828	hsa04022	cGMP-PKG signaling pathway
+T92828	hsa04080	Neuroactive ligand-receptor interaction
+T92828	hsa04916	Melanogenesis
+T92828	hsa05200	Pathways in cancer
+T93344	sce00100	Steroid biosynthesis
+T93344	sce00909	Sesquiterpenoid and triterpenoid biosynthesis
+T93344	sce01100	Metabolic pathways
+T93344	sce01110	Biosynthesis of secondary metabolites
+T93344	sce01130	Biosynthesis of antibiotics
+T93440	hsa04060	Cytokine-cytokine receptor interaction
+T93440	hsa04066	HIF-1 signaling pathway
+T93440	hsa04151	PI3K-Akt signaling pathway
+T93440	hsa04630	Jak-STAT signaling pathway
+T93440	hsa04640	Hematopoietic cell lineage
+T93440	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T94033	hsa04080	Neuroactive ligand-receptor interaction
+T94033	hsa04610	Complement and coagulation cascades
+T94033	hsa04810	Regulation of actin cytoskeleton
+T94309	hsa00561	Glycerolipid metabolism
+T94309	hsa01100	Metabolic pathways
+T94309	hsa04972	Pancreatic secretion
+T94309	hsa04975	Fat digestion and absorption
+T94309	hsa04977	Vitamin digestion and absorption
+T94444	hsa00280	Valine, leucine and isoleucine degradation
+T94444	hsa00350	Tyrosine metabolism
+T94444	hsa00380	Tryptophan metabolism
+T94444	hsa00750	Vitamin B6 metabolism
+T94444	hsa00760	Nicotinate and nicotinamide metabolism
+T94444	hsa00830	Retinol metabolism
+T94444	hsa00982	Drug metabolism - cytochrome P450
+T94444	hsa01100	Metabolic pathways
+T94692	hsa04144	Endocytosis
+T94692	hsa04913	Ovarian steroidogenesis
+T94692	hsa04976	Bile secretion
+T94692	hsa05145	Toxoplasmosis
+T94692	hsa05160	Hepatitis C
+T95400	hsa04071	Sphingolipid signaling pathway
+T95400	hsa04664	Fc epsilon RI signaling pathway
+T95400	hsa05310	Asthma
+T95479	hsa04971	Gastric acid secretion
+T95558	hsa00561	Glycerolipid metabolism
+T95558	hsa01100	Metabolic pathways
+T95558	hsa04975	Fat digestion and absorption
+T95913	hsa00562	Inositol phosphate metabolism
+T95913	hsa04012	ErbB signaling pathway
+T95913	hsa04014	Ras signaling pathway
+T95913	hsa04015	Rap1 signaling pathway
+T95913	hsa04022	cGMP-PKG signaling pathway
+T95913	hsa04024	cAMP signaling pathway
+T95913	hsa04062	Chemokine signaling pathway
+T95913	hsa04066	HIF-1 signaling pathway
+T95913	hsa04068	FoxO signaling pathway
+T95913	hsa04070	Phosphatidylinositol signaling system
+T95913	hsa04071	Sphingolipid signaling pathway
+T95913	hsa04150	mTOR signaling pathway
+T95913	hsa04151	PI3K-Akt signaling pathway
+T95913	hsa04152	AMPK signaling pathway
+T95913	hsa04210	Apoptosis
+T95913	hsa04261	Adrenergic signaling in cardiomyocytes
+T95913	hsa04370	VEGF signaling pathway
+T95913	hsa04380	Osteoclast differentiation
+T95913	hsa04510	Focal adhesion
+T95913	hsa04550	Signaling pathways regulating pluripotency of stem cells
+T95913	hsa04611	Platelet activation
+T95913	hsa04620	Toll-like receptor signaling pathway
+T95913	hsa04630	Jak-STAT signaling pathway
+T95913	hsa04650	Natural killer cell mediated cytotoxicity
+T95913	hsa04660	T cell receptor signaling pathway
+T95913	hsa04662	B cell receptor signaling pathway
+T95913	hsa04664	Fc epsilon RI signaling pathway
+T95913	hsa04666	Fc gamma R-mediated phagocytosis
+T95913	hsa04668	TNF signaling pathway
+T95913	hsa04670	Leukocyte transendothelial migration
+T95913	hsa04722	Neurotrophin signaling pathway
+T95913	hsa04725	Cholinergic synapse
+T95913	hsa04750	Inflammatory mediator regulation of TRP channels
+T95913	hsa04810	Regulation of actin cytoskeleton
+T95913	hsa04910	Insulin signaling pathway
+T95913	hsa04914	Progesterone-mediated oocyte maturation
+T95913	hsa04915	Estrogen signaling pathway
+T95913	hsa04917	Prolactin signaling pathway
+T95913	hsa04919	Thyroid hormone signaling pathway
+T95913	hsa04921	Oxytocin signaling pathway
+T95913	hsa04923	Regulation of lipolysis in adipocytes
+T95913	hsa04930	Type II diabetes mellitus
+T95913	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T95913	hsa04960	Aldosterone-regulated sodium reabsorption
+T95913	hsa04973	Carbohydrate digestion and absorption
+T95913	hsa05100	Bacterial invasion of epithelial cells
+T95913	hsa05142	Chagas disease (American trypanosomiasis)
+T95913	hsa05145	Toxoplasmosis
+T95913	hsa05146	Amoebiasis
+T95913	hsa05160	Hepatitis C
+T95913	hsa05161	Hepatitis B
+T95913	hsa05162	Measles
+T95913	hsa05164	Influenza A
+T95913	hsa05166	HTLV-I infection
+T95913	hsa05169	Epstein-Barr virus infection
+T95913	hsa05200	Pathways in cancer
+T95913	hsa05203	Viral carcinogenesis
+T95913	hsa05205	Proteoglycans in cancer
+T95913	hsa05206	MicroRNAs in cancer
+T95913	hsa05210	Colorectal cancer
+T95913	hsa05211	Renal cell carcinoma
+T95913	hsa05212	Pancreatic cancer
+T95913	hsa05213	Endometrial cancer
+T95913	hsa05214	Glioma
+T95913	hsa05215	Prostate cancer
+T95913	hsa05218	Melanoma
+T95913	hsa05220	Chronic myeloid leukemia
+T95913	hsa05221	Acute myeloid leukemia
+T95913	hsa05222	Small cell lung cancer
+T95913	hsa05223	Non-small cell lung cancer
+T95913	hsa05230	Central carbon metabolism in cancer
+T95913	hsa05231	Choline metabolism in cancer
+T96079	hsa04060	Cytokine-cytokine receptor interaction
+T96079	hsa04062	Chemokine signaling pathway
+T96079	hsa04144	Endocytosis
+T96079	hsa04360	Axon guidance
+T96079	hsa04670	Leukocyte transendothelial migration
+T96079	hsa04672	Intestinal immune network for IgA production
+T96079	hsa05200	Pathways in cancer
+T97035	hsa00350	Tyrosine metabolism
+T97035	hsa00740	Riboflavin metabolism
+T97035	hsa01100	Metabolic pathways
+T97035	hsa04916	Melanogenesis
+T97071	hsa00250	Alanine, aspartate and glutamate metabolism
+T97071	hsa01100	Metabolic pathways
+T97071	hsa04977	Vitamin digestion and absorption
+T97174	hsa04142	Lysosome
+T97174	hsa04145	Phagosome
+T97257	hsa04010	MAPK signaling pathway
+T97257	hsa04060	Cytokine-cytokine receptor interaction
+T97257	hsa04068	FoxO signaling pathway
+T97257	hsa04110	Cell cycle
+T97257	hsa04144	Endocytosis
+T97257	hsa04350	TGF-beta signaling pathway
+T97257	hsa04380	Osteoclast differentiation
+T97257	hsa04390	Hippo signaling pathway
+T97257	hsa04672	Intestinal immune network for IgA production
+T97257	hsa04932	Non-alcoholic fatty liver disease (NAFLD)
+T97257	hsa05140	Leishmaniasis
+T97257	hsa05142	Chagas disease (American trypanosomiasis)
+T97257	hsa05144	Malaria
+T97257	hsa05145	Toxoplasmosis
+T97257	hsa05146	Amoebiasis
+T97257	hsa05152	Tuberculosis
+T97257	hsa05161	Hepatitis B
+T97257	hsa05166	HTLV-I infection
+T97257	hsa05200	Pathways in cancer
+T97257	hsa05205	Proteoglycans in cancer
+T97257	hsa05210	Colorectal cancer
+T97257	hsa05211	Renal cell carcinoma
+T97257	hsa05212	Pancreatic cancer
+T97257	hsa05220	Chronic myeloid leukemia
+T97257	hsa05321	Inflammatory bowel disease (IBD)
+T97257	hsa05323	Rheumatoid arthritis
+T97257	hsa05410	Hypertrophic cardiomyopathy (HCM)
+T97257	hsa05414	Dilated cardiomyopathy
+T97587	hsa04151	PI3K-Akt signaling pathway
+T97587	hsa04510	Focal adhesion
+T97587	hsa04512	ECM-receptor interaction
+T97587	hsa04514	Cell adhesion molecules (CAMs)
+T97587	hsa04640	Hematopoietic cell lineage
+T97587	hsa04670	Leukocyte transendothelial migration
+T97587	hsa04672	Intestinal immune network for IgA production
+T97587	hsa04810	Regulation of actin cytoskeleton
+T97587	hsa05140	Leishmaniasis
+T97587	hsa05410	Hypertrophic cardiomyopathy (HCM)
+T97587	hsa05412	Arrhythmogenic right ventricular cardiomyopathy (ARVC)
+T97587	hsa05414	Dilated cardiomyopathy
+T97613	hsa04080	Neuroactive ligand-receptor interaction
+T97613	hsa04713	Circadian entrainment
+T97713	hsa00230	Purine metabolism
+T97713	hsa00983	Drug metabolism - other enzymes
+T97713	hsa01100	Metabolic pathways
+T98913	hsa04060	Cytokine-cytokine receptor interaction
+T98913	hsa04151	PI3K-Akt signaling pathway
+T98913	hsa04630	Jak-STAT signaling pathway
+T98913	hsa04640	Hematopoietic cell lineage
+T98913	hsa05200	Pathways in cancer
+T98933	hsa04080	Neuroactive ligand-receptor interaction
+T98933	hsa04919	Thyroid hormone signaling pathway
+T99089	hsa04010	MAPK signaling pathway
+T99089	hsa04012	ErbB signaling pathway
+T99089	hsa04015	Rap1 signaling pathway
+T99089	hsa04024	cAMP signaling pathway
+T99089	hsa04062	Chemokine signaling pathway
+T99089	hsa04068	FoxO signaling pathway
+T99089	hsa04150	mTOR signaling pathway
+T99089	hsa04270	Vascular smooth muscle contraction
+T99089	hsa04510	Focal adhesion
+T99089	hsa04650	Natural killer cell mediated cytotoxicity
+T99089	hsa04720	Long-term potentiation
+T99089	hsa04722	Neurotrophin signaling pathway
+T99089	hsa04726	Serotonergic synapse
+T99089	hsa04730	Long-term depression
+T99089	hsa04810	Regulation of actin cytoskeleton
+T99089	hsa04910	Insulin signaling pathway
+T99089	hsa04914	Progesterone-mediated oocyte maturation
+T99089	hsa05034	Alcoholism
+T99089	hsa05160	Hepatitis C
+T99089	hsa05200	Pathways in cancer
+T99089	hsa05205	Proteoglycans in cancer
+T99089	hsa05210	Colorectal cancer
+T99089	hsa05211	Renal cell carcinoma
+T99089	hsa05212	Pancreatic cancer
+T99089	hsa05213	Endometrial cancer
+T99089	hsa05214	Glioma
+T99089	hsa05215	Prostate cancer
+T99089	hsa05216	Thyroid cancer
+T99089	hsa05218	Melanoma
+T99089	hsa05219	Bladder cancer
+T99089	hsa05220	Chronic myeloid leukemia
+T99089	hsa05221	Acute myeloid leukemia
+T99089	hsa05223	Non-small cell lung cancer
+T99524	hsa04080	Neuroactive ligand-receptor interaction
+T99948	hsa04514	Cell adhesion molecules (CAMs)
+T99954	hsa04080	Neuroactive ligand-receptor interaction
+T99954	hsa04270	Vascular smooth muscle contraction
+T99954	hsa04611	Platelet activation

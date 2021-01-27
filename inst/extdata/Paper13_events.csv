@@ -1,0 +1,83 @@
+FREQ,VAR_GRP,VAR_NAME,ICD,LABEL_NAME
+common,BLEED_GASTRO,I983,Gastrointestinal bleeding safety outcome,"Ösophagus- und Magenvarizen bei anderenorts klassifizierten Krankheiten, mit Angabe einer Blutung"
+common,BLEED_GASTRO,K226,Gastrointestinal bleeding safety outcome,Mallory-Weiss-Syndrom
+common,BLEED_GASTRO,K228,Gastrointestinal bleeding safety outcome,Sonstige näher bezeichnete Krankheiten des Ösophagus
+common,BLEED_GASTRO,K2280,Gastrointestinal bleeding safety outcome,Ösophagusfistel
+common,BLEED_GASTRO,K2281,Gastrointestinal bleeding safety outcome,Ösophagusblutung
+common,BLEED_GASTRO,K2288,Gastrointestinal bleeding safety outcome,"Sonstige näher bezeichnete Krankheiten des Ösophagus, Ösophagusblutung o.n.A."
+common,BLEED_GASTRO,K250,Gastrointestinal bleeding safety outcome,"Ulcus ventriculi: Akut, mit Blutung"
+common,BLEED_GASTRO,K252,Gastrointestinal bleeding safety outcome,"Ulcus ventriculi: Akut, mit Blutung und Perforation"
+common,BLEED_GASTRO,K254,Gastrointestinal bleeding safety outcome,"Ulcus ventriculi: Chronisch oder nicht näher bezeichnet, mit Blutung"
+common,BLEED_GASTRO,K256,Gastrointestinal bleeding safety outcome,"Ulcus ventriculi: Chronisch oder nicht näher bezeichnet, mit Blutung und Perforation"
+common,BLEED_GASTRO,K260,Gastrointestinal bleeding safety outcome,"Ulcus duodeni: Akut, mit Blutung"
+common,BLEED_GASTRO,K262,Gastrointestinal bleeding safety outcome,"Ulcus duodeni: Akut, mit Blutung und Perforation"
+common,BLEED_GASTRO,K264,Gastrointestinal bleeding safety outcome,"Ulcus duodeni: Chronisch oder nicht näher bezeichnet, mit Blutung"
+common,BLEED_GASTRO,K266,Gastrointestinal bleeding safety outcome,"Ulcus duodeni: Chronisch oder nicht näher bezeichnet, mit Blutung und Perforation"
+common,BLEED_GASTRO,K270,Gastrointestinal bleeding safety outcome,"Ulcus pepticum, Lokalisation nicht näher bezeichnet: Akut, mit Blutung"
+common,BLEED_GASTRO,K272,Gastrointestinal bleeding safety outcome,"Ulcus pepticum, Lokalisation nicht näher bezeichnet: Akut, mit Blutung und Perforation"
+common,BLEED_GASTRO,K274,Gastrointestinal bleeding safety outcome,"Ulcus pepticum, Lokalisation nicht näher bezeichnet: Chronisch oder nicht näher bezeichnet, mit Blutung"
+common,BLEED_GASTRO,K276,Gastrointestinal bleeding safety outcome,"Ulcus pepticum, Lokalisation nicht näher bezeichnet: Chronisch oder nicht näher bezeichnet, mit Blutung und Perforation"
+common,BLEED_GASTRO,K280,Gastrointestinal bleeding safety outcome,"Ulcus pepticum jejuni: Akut, mit Blutung"
+common,BLEED_GASTRO,K282,Gastrointestinal bleeding safety outcome,"Ulcus pepticum jejuni: Akut, mit Blutung und Perforation"
+common,BLEED_GASTRO,K284,Gastrointestinal bleeding safety outcome,"Ulcus pepticum jejuni: Chronisch oder nicht näher bezeichnet, mit Blutung"
+common,BLEED_GASTRO,K286,Gastrointestinal bleeding safety outcome,"Ulcus pepticum jejuni: Chronisch oder nicht näher bezeichnet, mit Blutung und Perforation"
+common,BLEED_GASTRO,K290,Gastrointestinal bleeding safety outcome,Akute hämorrhagische Gastritis
+common,BLEED_GASTRO,K3182,Gastrointestinal bleeding safety outcome,Angiodysplasie des Magens und des Duodenums mit Blutung
+common,BLEED_GASTRO,K5522,Gastrointestinal bleeding safety outcome,Angiodysplasie des Kolons: Mit Blutung
+common,BLEED_GASTRO,K5532,Gastrointestinal bleeding safety outcome,Angiodysplasie des Dünndarmes mit Blutung 
+common,BLEED_GASTRO,K5582,Gastrointestinal bleeding safety outcome,Angiodysplasie des Dünndarmes mit Blutung
+common,BLEED_GASTRO,K5701,Gastrointestinal bleeding safety outcome,"Divertikulose des Dünndarmes mit Perforation, Abszess und Blutung"
+common,BLEED_GASTRO,K5703,Gastrointestinal bleeding safety outcome,"Divertikulitis des Dünndarmes mit Perforation, Abszess und Blutung"
+common,BLEED_GASTRO,K5711,Gastrointestinal bleeding safety outcome,"Divertikulose des Dünndarmes ohne Perforation und Abszess, mit Blutung"
+common,BLEED_GASTRO,K5713,Gastrointestinal bleeding safety outcome,"Divertikulitis des Dünndarmes ohne Perforation und Abszess, mit Blutung"
+common,BLEED_GASTRO,K5721,Gastrointestinal bleeding safety outcome,"Divertikulose des Dickdarmes mit Perforation, Abszess und Blutung"
+common,BLEED_GASTRO,K5723,Gastrointestinal bleeding safety outcome,"Divertikulitis des Dickdarmes mit Perforation, Abszess und Blutung"
+common,BLEED_GASTRO,K5731,Gastrointestinal bleeding safety outcome,"Divertikulose des Dickdarmes ohne Perforation oder Abszess, mit Blutung"
+common,BLEED_GASTRO,K5733,Gastrointestinal bleeding safety outcome,"Divertikulitis des Dickdarmes ohne Perforation oder Abszess, mit Blutung"
+common,BLEED_GASTRO,K5741,Gastrointestinal bleeding safety outcome,"Divertikulose sowohl des Dünndarmes als auch des Dickdarmes mit Perforation, Abszess und Blutung"
+common,BLEED_GASTRO,K5743,Gastrointestinal bleeding safety outcome,"Divertikulitis sowohl des Dünndarmes als auch des Dickdarmes mit Perforation, Abszess und Blutung"
+common,BLEED_GASTRO,K5751,Gastrointestinal bleeding safety outcome,"Divertikulose sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation oder Abszess, mit Blutung"
+common,BLEED_GASTRO,K5753,Gastrointestinal bleeding safety outcome,"Divertikulitis sowohl des Dünndarmes als auch des Dickdarmes ohne Perforation oder Abszess, mit Blutung"
+common,BLEED_GASTRO,K5781,Gastrointestinal bleeding safety outcome,"Divertikulose des Darmes, Teil nicht näher bezeichnet, mit Perforation, Abszess und Blutung"
+common,BLEED_GASTRO,K5783,Gastrointestinal bleeding safety outcome,"Divertikulitis des Darmes, Teil nicht näher bezeichnet, mit Perforation, Abszess und Blutung"
+common,BLEED_GASTRO,K5791,Gastrointestinal bleeding safety outcome,"Divertikulose des Darmes, Teil nicht näher bezeichnet, ohne Perforation oder Abszess, mit Blutung"
+common,BLEED_GASTRO,K5793,Gastrointestinal bleeding safety outcome,"Divertikulitis des Darmes, Teil nicht näher bezeichnet, ohne Perforation oder Abszess, mit Blutung"
+common,BLEED_GASTRO,K625,Gastrointestinal bleeding safety outcome,Hämorrhagie des Anus und des Rektums
+common,BLEED_GASTRO,K661,Gastrointestinal bleeding safety outcome,Hämoperitoneum
+common,BLEED_GASTRO,K920,Gastrointestinal bleeding safety outcome,Hämatemesis
+common,BLEED_GASTRO,K921,Gastrointestinal bleeding safety outcome,Meläna
+common,BLEED_GASTRO,K922,Gastrointestinal bleeding safety outcome,"Gastrointestinale Blutung, nicht näher bezeichnet"
+uncommon -> rare,BLEED_ICR,I61,Intracranial bleeding safety outcome,Intrazerebrale Blutung
+uncommon -> rare,BLEED_ICR,I610,Intracranial bleeding safety outcome,"Intrazerebrale Blutung in die Großhirnhemisphäre, subkortikal"
+uncommon -> rare,BLEED_ICR,I611,Intracranial bleeding safety outcome,"Intrazerebrale Blutung in die Großhirnhemisphäre, kortikal"
+uncommon -> rare,BLEED_ICR,I612,Intracranial bleeding safety outcome,"Intrazerebrale Blutung in die Großhirnhemisphäre, nicht näher bezeichnet"
+uncommon -> rare,BLEED_ICR,I613,Intracranial bleeding safety outcome,Intrazerebrale Blutung in den Hirnstamm
+uncommon -> rare,BLEED_ICR,I614,Intracranial bleeding safety outcome,Intrazerebrale Blutung in das Kleinhirn
+uncommon -> rare,BLEED_ICR,I615,Intracranial bleeding safety outcome,Intrazerebrale intraventrikuläre Blutung
+uncommon -> rare,BLEED_ICR,I616,Intracranial bleeding safety outcome,Intrazerebrale Blutung an mehreren Lokalisationen
+uncommon -> rare,BLEED_ICR,I618,Intracranial bleeding safety outcome,Sonstige intrazerebrale Blutung
+uncommon -> rare,BLEED_ICR,I619,Intracranial bleeding safety outcome,"Intrazerebrale Blutung, nicht näher bezeichnet"
+uncommon -> rare,BLEED_ICR,I60,Intracranial bleeding safety outcome,Subarachnoidalblutung
+uncommon -> rare,BLEED_ICR,I600,Intracranial bleeding safety outcome,"Subarachnoidalblutung, vom Karotissiphon oder der Karotisbifurkation ausgehend"
+uncommon -> rare,BLEED_ICR,I601,Intracranial bleeding safety outcome,"Subarachnoidalblutung, von der A. cerebri media ausgehend"
+uncommon -> rare,BLEED_ICR,I602,Intracranial bleeding safety outcome,"Subarachnoidalblutung, von der A. communicans anterior ausgehend"
+uncommon -> rare,BLEED_ICR,I603,Intracranial bleeding safety outcome,"Subarachnoidalblutung, von der A. communicans posterior ausgehend"
+uncommon -> rare,BLEED_ICR,I604,Intracranial bleeding safety outcome,"Subarachnoidalblutung, von der A. basilaris ausgehend"
+uncommon -> rare,BLEED_ICR,I605,Intracranial bleeding safety outcome,"Subarachnoidalblutung, von der A. vertebralis ausgehend"
+uncommon -> rare,BLEED_ICR,I606,Intracranial bleeding safety outcome,"Subarachnoidalblutung, von sonstigen intrakraniellen Arterien ausgehend"
+uncommon -> rare,BLEED_ICR,I607,Intracranial bleeding safety outcome,"Subarachnoidalblutung, von nicht näher bezeichneter intrakranieller Arterie ausgehend"
+uncommon -> rare,BLEED_ICR,I608,Intracranial bleeding safety outcome,Sonstige Subarachnoidalblutung
+uncommon -> rare,BLEED_ICR,I609,Intracranial bleeding safety outcome,"Subarachnoidalblutung, nicht näher bezeichnet"
+uncommon -> rare,BLEED_ICR,I62,Intracranial bleeding safety outcome,Sonstige nichttraumatische intrakranielle Blutung
+uncommon -> rare,BLEED_ICR,I620,Intracranial bleeding safety outcome,Nichttraumatische subdurale Blutung
+uncommon -> rare,BLEED_ICR,I6200,Intracranial bleeding safety outcome,Nichttraumatische subdurale Blutung): Akut
+uncommon -> rare,BLEED_ICR,I6201,Intracranial bleeding safety outcome,Nichttraumatische subdurale Blutung: Subakut
+uncommon -> rare,BLEED_ICR,I6202,Intracranial bleeding safety outcome,Nichttraumatische subdurale Blutung: Chronisch
+uncommon -> rare,BLEED_ICR,I6209,Intracranial bleeding safety outcome,Nichttraumatische subdurale Blutung: Nicht näher bezeichnet
+uncommon -> rare,BLEED_ICR,I621,Intracranial bleeding safety outcome,Nichttraumatische extradurale Blutung
+uncommon -> rare,BLEED_ICR,I629,Intracranial bleeding safety outcome,"Intrakranielle Blutung (nichttraumatisch), nicht näher bezeichnet"
+uncommon -> rare,BLEED_ICR,S0633,Intracranial bleeding safety outcome,Umschriebenes zerebrales Hämatom
+uncommon -> rare,BLEED_ICR,S0634,Intracranial bleeding safety outcome,Umschriebenes zerebellares Hämatom
+uncommon -> rare,BLEED_ICR,S064,Intracranial bleeding safety outcome,Epidurale Blutung
+uncommon -> rare,BLEED_ICR,S065,Intracranial bleeding safety outcome,Traumatische subdurale Blutung
+uncommon -> rare,BLEED_ICR,S066,Intracranial bleeding safety outcome,Traumatische subarachnoidale Blutung

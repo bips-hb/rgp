@@ -1,0 +1,35 @@
+Package: RGP
+Title: Identification of Risk Groups in Pharmacovigilance Using Penalized Regression
+  and Machine Learning (RGP)
+Version: 0.0.0.9000
+Authors@R: person("Mariam", "R. Rizkallah",
+  email = "rizkallah-issak@leibniz-bips.de",
+  role = c("aut", "cre"))
+Description: A package for analyzing healthcare claims data and
+  simulated data using penalized regression and machine learning methods.
+  This package contains function wrappers to create a simulated cohort,
+  group predictors based on functional targets (from KEGG and TTD) and
+  conventional groups (ATC/ICD systems) and analyze the data using various types
+  of penalized regression (LASSO) and machine learning methods (random forests and
+  block forests).
+biocViews: KEGGREST
+Depends: R (>= 4.0.2),
+  data.table
+Imports: stats,
+  utils,
+  data.table,
+  RSQLite,
+  simstudy,
+  gtools
+Recommends: ranger,
+  glmnet,
+  precrec,
+  doParallel,
+  Matrix
+Remote: git::https://github.com/bips-hb/ARTPredict.git,
+  git::https://github.com/bips-hb/blockForest.git
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+URL: http://github.com/bips-hb/rgp
